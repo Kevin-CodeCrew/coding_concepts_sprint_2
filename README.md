@@ -1,2 +1,5 @@
 # Coding Concepts Sprint 2 
-## HTML/DOM/CSS/JavaScript
+* HTML
+* CSS and Responsiveness
+* The DOM
+* JavaScript ES6
