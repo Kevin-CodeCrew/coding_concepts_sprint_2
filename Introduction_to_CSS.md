@@ -12,5 +12,5 @@
 ### Other Selectors
 
 # Additional Information
-<a href="https://css-tricks.com/bem-101/" target="_blank">CSS BEM</a>
+[CSS BEM](https://css-tricks.com/bem-101/)
 
