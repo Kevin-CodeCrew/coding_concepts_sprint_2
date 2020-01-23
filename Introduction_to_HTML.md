@@ -75,8 +75,8 @@ An example of an element that may or may not be in the HEAD section is the `<scr
 Any content that you want rendered in the browser should appear in the BODY section of your HTML.
 
 # Practice
-[Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
-[Basics 2](https://github.com/cs-fullstack-master/html-basics1-cw)
+* [Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
+* [Basics 2](https://github.com/cs-fullstack-master/html-basics1-cw)
 
 # Additional Information
 1. [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
