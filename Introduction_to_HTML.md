@@ -53,6 +53,22 @@ Attributes are always specified in the **beginging** tag and not as part of the 
 `<img src='./img/bugs.png height='300' width='100' alt='Bugs Bunny'/>`
 
 ### HTML Document Structure
+The main structure of HTML documents hasn't changed drastically over the years, but with the introduction of HTML5 semantic elements were introduced. 
+
+Let's start with the primary sections of `<html>`, `<head>`, and `<body>` as well as directives.
+
+#### Declarations
+In the development world, **declarations** are extra information that is provided so that processing entities can better predict the type of data they are dealing with. This includes programs like web browsers.
+
+Every HTML document should start with a declaration that specifies which version of HTML it conforms to as well as any additional [metadata](https://en.wikipedia.org/wiki/Metadata) that assists in processing of the document. While technically they are not required, it is a best practice to use them.
+
+As of HTML5 you can get by with a simple declaration if your HTMl is up to spec.
+
+`<!DOCTYPE html>`
+
+#### HEAD
+
+#### BODY
 
 
 # Practice
