@@ -18,10 +18,15 @@ It is often useful to think about the 3 complimenting technologies as a noun-adj
 * The Adjective CSS - CSS defines the characteristics about the HTML content such as is **bold**
 * The Verb JavaScript - JavaScript defines actions about the HTML such as 'hide this paragraph' or 'show' the form when the user clicks a button
 
-
-
-
 ### Elements
+
+![Coolest Geek Tatoo Ever](./img/head_body.jpg)
+
+Generally in HTML, we markup content with tags that include a starting tag and an ending tag. All tags are in less/greater than signs/characters. The opening tag does not contain a slash while the ending tag does. That's how the browser knows where the markup starts and ends. Take for instance, the following paragraph. 
+
+`<p>This is a song about nothing. This is a song about nothing at all. #POWERMAN5000</p>`
+
+Note the start and end of the markup.
 
 ### Attributes
 
