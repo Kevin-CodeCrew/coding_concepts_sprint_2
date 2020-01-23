@@ -52,11 +52,8 @@ Attributes are always specified in the **beginging** tag and not as part of the 
 
 `<img src='./img/bugs.png height='300' width='100' alt='Bugs Bunny'/>`
 
-
-
-
-
 ### HTML Document Structure
+
 
 # Practice
 > ADD PRACTICE HERE
