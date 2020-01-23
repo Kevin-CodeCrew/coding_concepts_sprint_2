@@ -28,6 +28,13 @@ Generally in HTML, we markup content with tags that include a starting tag and a
 
 Note the start and end of the markup.
 
+The idea is that we **markup** the data to display. The browser will apply default formatting, but as a developer we have *complete control* and thus can override any default display characteristics.
+
+The start/and stop elements just tell the browser where to start and end the formatting.
+
+#### Self Closing Elements
+
+
 ### Attributes
 
 ### HTML Document Structure
