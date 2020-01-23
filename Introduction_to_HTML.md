@@ -14,9 +14,9 @@ As far as it's relationship to the other key technologies of [CSS](https://en.wi
 
 It is often useful to think about the 3 complimenting technologies as a noun-adjective-verb relationship.
 
-* The Noun HTML - HTML is the what, such as a paragraph
-* The Adjective CSS - CSS defines the characteristics about the HTML content such as is **bold**
-* The Verb JavaScript - JavaScript defines actions about the HTML such as 'hide this paragraph' or 'show' the form when the user clicks a button
+* The **Noun** HTML - HTML is the what, such as a paragraph
+* The **Adjective** CSS - CSS defines the characteristics about the HTML content such as is **bold**
+* The **Verb** JavaScript - JavaScript defines actions about the HTML such as 'hide this paragraph' or 'show' the form when the user clicks a button
 
 ### Elements
 
