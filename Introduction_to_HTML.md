@@ -67,12 +67,16 @@ As of HTML5 you can get by with a simple declaration if your HTMl is up to spec.
 `<!DOCTYPE html>`
 
 #### HEAD
+The `head` portion of an HTML document is loaded first and contains items that will not be displayed within the browser window. There are many elements that only can appear in the `head` portion such as `<title>` which is used to specify the text that will show at the top of the window/tab when the page is displayed.
+
+An example of an element that may or may not be in the HEAD section is the `<script>` tag used for specifying JavaScript. The `<script>` tag can appear anywhere in your HTML. If your JavaScript is not manipulating elements in the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) then you should specify/include it in the HEAD portion of your HTML. However if your JavaScript depends on specific elements in the DOM, make sure your JavaScript is specified/included **after** the markup for the elements that it interacts with. This is because until those elements are rendered, they are not accessible. The DOM will be covered in more detail in subsequent modules.
 
 #### BODY
-
+Any content that you want rendered in the browser should appear in the BODY section of your HTML.
 
 # Practice
-> ADD PRACTICE HERE
+[Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
+[Basics 2](https://github.com/cs-fullstack-master/html-basics1-cw)
 
 # Additional Information
 1. [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
