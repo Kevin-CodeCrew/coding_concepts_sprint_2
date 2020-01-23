@@ -76,6 +76,7 @@ Any content that you want rendered in the browser should appear in the BODY sect
 
 # Practice
 * [Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
+
 * [Basics 2](https://github.com/cs-fullstack-master/html-basics1-cw)
 
 # Additional Information
