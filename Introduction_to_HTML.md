@@ -38,11 +38,12 @@ There are a handful of elements that **only** have a start tag and no formal end
 When [XML](https://en.wikipedia.org/wiki/XML) appeared, and consequently [XHTML](https://en.wikipedia.org/wiki/XHTML), it enforced much stronger rules about matching tags in markup content in that **every** tag should have a closing tag or a self-closing tag if a traditional single tag markup element.
 
 Example of valid but not best practice single HTML element
+
 `<img src='./img/bugs.png>`
 
 then a proper self-closing tab (note slash before end bracket)
 
-`<img src='./img/bugs.png>`
+`<img src='./img/bugs.png/>`
 
 
 
