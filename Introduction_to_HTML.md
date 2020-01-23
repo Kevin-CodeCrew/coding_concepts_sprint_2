@@ -33,6 +33,17 @@ The idea is that we **markup** the data to display. The browser will apply defau
 The start/and stop elements just tell the browser where to start and end the formatting.
 
 #### Self Closing Elements
+There are a handful of elements that **only** have a start tag and no formal end tag. This is a legacy issue in that early versions of HTML really wasn't thinking that we would every programmatically retrieve and parse random web content (think Google) thus the [creators of HTML](https://en.wikipedia.org/wiki/Tim_Berners-Lee) really didn't consider how the data would be constructed such that it was easy to process. 
+
+When [XML](https://en.wikipedia.org/wiki/XML) appeared, and consequently [XHTML](https://en.wikipedia.org/wiki/XHTML), it enforced much stronger rules about matching tags in markup content in that **every** tag should have a closing tag or a self-closing tag if a traditional single tag markup element.
+
+Example of valid but not best practice single HTML element
+`<img src='./img/bugs.png>`
+
+then a proper self-closing tab (note slash before end bracket)
+
+`<img src='./img/bugs.png>`
+
 
 
 ### Attributes
