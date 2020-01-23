@@ -26,7 +26,7 @@ Generally in HTML, we markup content with tags that include a starting tag and a
 
 `<p>This is a song about nothing. This is a song about nothing at all. #POWERMAN5000</p>`
 
-> Note the start and end of the markup.
+> NOTE the start and end of the markup.
 
 The idea is that we **markup** the data to display. The browser will apply default formatting, but as a developer we have *complete control* and thus can override any default display characteristics.
 
