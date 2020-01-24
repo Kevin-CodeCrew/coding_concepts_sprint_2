@@ -52,10 +52,12 @@ Attributes are always specified in the **begining** tag and not as part of the e
 
 `<img src='./img/bugs.png height='300' width='100' alt='Bugs Bunny'/>`
 
+The 2 most common attributes that apply to all HTML elements is *id* and *class*. These extra attributes are attached to allow you to style specific elements and/or allow you to determine which element fired a particular event so you can handle correctly in your code 
+
 ### HTML Document Structure
 The main structure of HTML documents hasn't changed drastically over the years, but with the introduction of HTML5 semantic elements were introduced. 
 
-Let's start with the primary sections of `<html>`, `<head>`, and `<body>` as well as directives.
+Let's start with the primary sections of `<html>`, `<head>`, and `<body>` as well as declarations.
 
 #### Declarations
 In the development world, **declarations** are extra information that is provided so that processing entities can better predict the type of data they are dealing with. This includes programs like web browsers.
