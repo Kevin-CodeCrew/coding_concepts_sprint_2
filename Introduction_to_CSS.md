@@ -18,7 +18,7 @@ This is a **VERY BAD** idea. As you can imagine, any time you want to change how
 
 Using CSS, you can specify all of your styling for your web site in a single place. However, HTML also allows CSS to be declared *inline* with a slightly different syntax. Simply change the style *in one place* and it takes affect on any and all web pages that include the CSS.
 
-If styling via *inline* `<style> elements, you always want to declare the styles in the *HEAD* portion of the HTML so that the styling information (colors, backgrounds, etc.) are already loaded and available before the web browser renders the *BODY* of the HTML.
+If styling via *inline* `<style>` elements, you always want to declare the styles in the *HEAD* portion of the HTML so that the styling information (colors, backgrounds, etc.) are already loaded and available before the web browser renders the *BODY* of the HTML.
 
 ![Frankenstein says inline styling IS BAD!](./img/styled_html_inline.png)
 
