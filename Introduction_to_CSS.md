@@ -45,7 +45,7 @@ CSS definitions consist of 2 things:
 #### CSS Property Values
 
 ## Working With CSS Selectors
-So then how do we specify exactly which HTML elements we want to change the color for or similar? We *select* them by specifying a matching selector/matching pattern in our CSS file.
+So then how do we specify exactly which HTML elements we want to change the color for or similar? We *select* them by specifying a matching selector/matching pattern in our CSS file. These are called *[CSS selectors](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Selector)*.
 
 ### Type Selectors
 ### Class Selectors
