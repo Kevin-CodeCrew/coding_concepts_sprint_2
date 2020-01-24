@@ -58,7 +58,7 @@ h2 {
 }
 ```
 ### Class Selectors
-*Class* selectors allow you to group many HTML elements and reference them all by their class name. You can optionally specify a class as an attribute to any HTML element(s).
+*Class* selectors allow you to group many HTML elements and reference them all by their class name [attribute](./Introduction_to_HTML.md#attributes). You can optionally specify a class as an attribute to any HTML element(s).
 
 ![CSS Class Selector](./img/css_class_selector.png) 
 
@@ -67,8 +67,10 @@ h2 {
 To specify a class selector in your CSS file(s) you do so by preceeding the class name with a `.` (period/dot).
 
 ![CSS Class Selector](./img/css_class.png)
+> **NOTE** that there **IS** a `.` in front of the class name in your CSS
 
 ### ID Selectors
+
 #### BEM Naming of HTML Elements
 ### Other Selectors
 
