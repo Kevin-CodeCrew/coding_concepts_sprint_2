@@ -72,7 +72,7 @@ The `head` portion of an HTML document is loaded first and contains items that w
 An example of an element that may or may not be in the HEAD section is the `<script>` tag used for specifying JavaScript. The `<script>` tag can appear anywhere in your HTML. If your JavaScript is not manipulating elements in the [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) then you should specify/include it in the HEAD portion of your HTML. However if your JavaScript depends on specific elements in the DOM, make sure your JavaScript is specified/included **after** the markup for the elements that it interacts with. This is because until those elements are rendered, they are not accessible. The DOM will be covered in more detail in subsequent modules.
 
 #### BODY
-Any content that you want rendered in the browser should appear in the BODY section of your HTML.
+Any content that you want rendered in the browser should appear in the BODY section of your HTML. Any valid HTML element can appear in this section, however only content that generates output that can be *rendered* in the browser will be displayed.
 
 # Practice
 * [Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
