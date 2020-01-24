@@ -46,7 +46,7 @@ const food = {
 }
 ```
 
-![](./images/key-value.png)
+![](./img/js_onject.png)
 
 This is not an object. It doesn't represent a singular thing. It also has no curly braces, or key/values pairs. When using an array to store these strings, they have now lost their context.
 
