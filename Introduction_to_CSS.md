@@ -70,6 +70,23 @@ To specify a class selector in your CSS file(s) you do so by preceeding the clas
 > **NOTE** that there **IS** a `.` in front of the class name in your CSS
 
 ### ID Selectors
+Each HTML element may be assigned an optional [ID](./Introduction_to_HTML.md#attributes). This ID value **must** be unique in the rendered HTML document. ID attributes are used when you want to *specifically target a single HTML element*. The selector in the CSS is specified by a hashtag (#) and the ID name.
+
+![CSS ID Selector](./img/css_id.png)
+
+Then in your HTML content
+
+![HTML Element with an ID attribute In Browser](./img/scary_too_html_source.png)
+
+Once the CSS is applied/included to/in your HTML your page goes from this...
+
+![HTML with no CSS](./img/scary_too_html.png)
+
+to this!
+
+![HTML with CSS](./img/css_scary_too_html.png)
+
+
 
 #### BEM Naming of HTML Elements
 ### Other Selectors
