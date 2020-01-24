@@ -81,7 +81,7 @@ That explicit information also helps robots/crawlers like Google and Bing to bet
 
 ![HTML Semantic Elements](./img/html_symantics.png)
 
-Think about it as a way to chop up your web pages. Prior to building any web page in HTML, take a moment to consider what the semantics should be for your web page.
+Think about it as a way to chop up your web pages. Prior to building any web page in HTML, take a moment to consider what the semantics should be for your web page. It will make your life so much easier when it comes to tailoring the look and feel of your websites with [CSS](./Introduction_to_CSS.md).
 
 ![Semantic HTML Elements](./img/html-semantic-tags.png)
 
