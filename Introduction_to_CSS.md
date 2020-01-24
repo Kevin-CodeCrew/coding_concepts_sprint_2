@@ -33,14 +33,24 @@ Instead the best option is to put all of your styling in a separate CSS file tha
 
 ![Frankenstein says external styling IS GOOD!](./img/external_css.png)
 
-### Selectors
-### Properties
-### Values
+Now you can simply change one CSS file and change the look and feel of your **entire site** without touching a single line of our HTML!
+
+### CSS Syntax
+CSS definitions consist of 2 things:
+1. Selector - The selector is the match pattern that determines for which HTML elements the style definition will take affect.
+1. Properties/Values - There are many ways you can change the appearance of elements using CSS. You do so by specifying the characteristic or *property* of the content you wish to change, along with the new values. Like setting the text color to blue.
+
+#### CSS Properties
+
+#### CSS Property Values
 
 ## Working With CSS Selectors
+So then how do we specify exactly which HTML elements we want to change the color for or similar? We *select* them by specifying a matching selector/matching pattern in our CSS file.
+
 ### Type Selectors
 ### Class Selectors
 ### ID Selectors
+#### BEM Naming of HTML Elements
 ### Other Selectors
 
 # Additional Information
