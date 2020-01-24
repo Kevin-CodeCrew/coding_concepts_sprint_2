@@ -48,7 +48,7 @@ then a proper self-closing tab (note slash before end bracket)
 ### Attributes
 Attributes are optional values you can specify with an HTML element. Depending on the element, some are required, but most are used to tweak how the element is handled. Setting image width and/or height a good example.
 
-Attributes are always specified in the **beginging** tag and not as part of the element content or closing tag.
+Attributes are always specified in the **begining** tag and not as part of the element content or closing tag.
 
 `<img src='./img/bugs.png height='300' width='100' alt='Bugs Bunny'/>`
 
