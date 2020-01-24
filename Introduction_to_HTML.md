@@ -74,6 +74,17 @@ An example of an element that may or may not be in the HEAD section is the `<scr
 #### BODY
 Any content that you want rendered in the browser should appear in the BODY section of your HTML. Any valid HTML element can appear in this section, however only content that generates output that can be *rendered* in the browser will be displayed.
 
+### HTML5 Semantics
+With the release of HTML version 5, several semantic HTML elements were added. These [semantic](https://en.wikipedia.org/wiki/Semantics) elements were added just to provide more meaning to HTML content. They generally do not produce output, but instead are more of a way to mark off specific sections of your web pages so that they can be more consistently and easily styled using [CSS](https://github.com/Kevin-CodeCrew/coding_concepts_sprint_2/blob/master/Introduction_to_CSS.md#introduction-to-css). Using semantic HTML elements also makes your web pages more accessible for users that rely on screen readers or similar assisting technologies.
+
+That explicit information also helps robots/crawlers like Google and Bing to better understand which content is important, which is subsidiary, which is for navigation, and so on. By adding semantic HTML tags to your pages, you provide additional information that helps Google and Bing understand the roles and relative importance of the different parts of your page and adds greatly to **S**earch **E**ngine **O**ptimization ([SEO](https://en.wikipedia.org/wiki/Search_engine_optimization)) so that users can more easily find your web site.
+
+![HTML Semantic Elements](./img/html_symantics.png)
+
+Think about it as a way to chop up your web pages. Prior to building any web page in HTML, take a moment to consider what the semantics should be for your web page.
+
+![Semantic HTML Elements](./img/html-semantic-tags.png)
+
 # Practice
 * [Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
 
