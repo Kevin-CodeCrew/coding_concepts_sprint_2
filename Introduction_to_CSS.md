@@ -48,7 +48,26 @@ CSS definitions consist of 2 things:
 So then how do we specify exactly which HTML elements we want to change the color for or similar? We *select* them by specifying a matching selector/matching pattern in our CSS file. These are called *[CSS selectors](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#Selector)*.
 
 ### Type Selectors
+*Type* selectors are the broadest form for selecting multiple HTML elements, and are the least used. Type selectors select **all** HTML elements of a specified type, and applies the corresponding style(s) from your style sheet in CSS. For type selectors, you simply specify the name of the HTML element(s) without the brackets.
+
+For example, the selector below will select **all** `H2` elements in the HTML document and will change the color of the text to red.
+
+```
+h2 {
+    color: red;
+}
+```
 ### Class Selectors
+*Class* selectors allow you to group many HTML elements and reference them all by their class name. You can optionally specify a class as an attribute to any HTML element(s).
+
+![CSS Class Selector](./img/css_class_selector.png) 
+
+> **NOTE** that there is no `.` in front of the class name in your HTML element
+
+To specify a class selector in your CSS file(s) you do so by preceeding the class name with a `.` (period/dot).
+
+![CSS Class Selector](./img/css_class.png)
+
 ### ID Selectors
 #### BEM Naming of HTML Elements
 ### Other Selectors
