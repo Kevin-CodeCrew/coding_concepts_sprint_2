@@ -95,8 +95,19 @@ The ID/selector names can be anything you wish, but you should always use meanin
 #### BEM Naming in CSS
 the **B**lock, **E**lement, **M**odifier methodology (commonly referred to as [BEM](https://css-tricks.com/bem-101)) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project.
 
-### Other Selectors
+# Practice
+[CSS Selectors](https://github.com/cs-fullstack-master/css-intro-selectors-box-ic)
+[CSS Selectors and Box Model](https://github.com/cs-fullstack-master/css-intro-selectors-box-cw)
+[CSS Positioning](https://github.com/cs-fullstack-master/html-position_type-ic)
+[CSS Positioning](https://github.com/cs-fullstack-master/html-position_type-cw)
+[CSS Positioning](https://github.com/cs-fullstack-master/html-position_type_updated-cw)
 
 # Additional Information
 [CSS BEM](https://css-tricks.com/bem-101/)
+[CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+[CSS Styling Text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
+[CSS Positioning Video](https://www.youtube.com/watch?v=-vo0HzNHL3U)
+
+
+
 
