@@ -1,4 +1,4 @@
-# JavaScript ES6
+# JavaScript ES6 - Objects
 
 ## What is an Object
 
