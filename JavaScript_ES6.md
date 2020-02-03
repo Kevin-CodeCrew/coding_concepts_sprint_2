@@ -9,7 +9,7 @@ For example, the number 1 has no meaning in an application by itself. You have n
 ```js
 /*
     Basic object representing my dog Angus.
-    - The object itself is labeled with the variable of `dog`
+    - The object itself is labeled with the variable of `angus`
     - The integer of 1 is labeled with the key of `age`
 */
 const angus = {
