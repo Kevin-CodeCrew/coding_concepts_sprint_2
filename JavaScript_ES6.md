@@ -38,11 +38,11 @@ const tessa = {
 
 Now the number 1 has meaning, or context, when assigned to a key on these objects.
 
-## Why are you Learning this?
+### Why are you Learning this?
 
 Objects are the basis of what's called Object Oriented Programming, where everything in your application is represented as an object to represent data, and be manipulated by you.
 
-## What does an Object Look Like?
+### What does an Object Look Like?
 
 Until you get to more advanced JavaScript, you can recognize an object because it follows this pattern.
 
@@ -78,7 +78,7 @@ const desk = {
 }
 ```
 
-## How are Objects Different from Arrays?
+### How are Objects Different from Arrays?
 
 Arrays are collections of similiar things. Objects are ways to define details of a single thing. Both an array and an object can be assigned to a variable.
 
@@ -123,7 +123,7 @@ const animals = [cat, dog]
 
 Take a few minutes to watch a video about [Variables vs. Arrays vs. Objects](https://www.youtube.com/watch?v=FjSCdXd04Cs).
 
-## Practice
+### Object Practice
 
 > **Exercise 1:** Given two options of data structures - array or object - which should you use? You need to represent a red 2015 Ford Mustang in your code.
 
@@ -131,11 +131,11 @@ Take a few minutes to watch a video about [Variables vs. Arrays vs. Objects](htt
 
 > **Exercise 3:** Define an object for four family members, and put each object in an array named `familyMembers`. Each family member object that you create should have the same keys on them, but the values will be different.
 
-## Setting and Accessing Values on Objects
+### Setting and Accessing Values on Objects
 
 There are two ways to access the values stored inside of an object. One is called dot notation, and the other is square bracket notation.
 
-### Dot Notation
+#### Dot Notation
 
 To obtain the value inside an object, and you know the name of the key, you can use dot notation. Here's the pattern.
 
@@ -196,7 +196,7 @@ material: "Cedar"
 width: 50
 ```
 
-### Square Bracket Notation
+#### Square Bracket Notation
 
 Square bracket notation is most often used when the key name is stored in a variable. The basic mechanics of it are similar to dot notation, you just use square brackets with the key name inside.
 
@@ -249,7 +249,7 @@ const lassiesBreed = lassie[keyToLookup]
 
 > **Instructor Note:** Talk about how expressions get evaluated from right to left, instead of the other way.
 
-### Practice
+#### Practice
 
 Time to practice dot and square-bracket notation. Use the following object to complete the exercises below.
 
@@ -272,7 +272,7 @@ const empireStateBuilding = {
 
 > **Exercises 2:** Use square bracket notation to output the remaining 5 properties to the console. Create 5 variables first with the keys as their values. Use those variables to look up the values.
 
-## Arrays as Values
+### Arrays as Object Properties
 
 So far, you've been largely accessing string and integer values in an object. However, values can be anything in the JavaScript language - including arrays. Consider this example.
 
@@ -311,7 +311,7 @@ console.log(kennel.currentAnimals[3])
 > "Jacks"
 ```
 
-### Practice
+#### Practice
 
 Examine the object below.
 
@@ -331,7 +331,7 @@ const nashvilleSoftwareSchool = {
 
 > **Exercise 2:** Output only Andy and Zoe in the console.
 
-## Practice: Accessing Property Values
+#### Practice: Accessing Property Values
 
 Given the following object...
 
@@ -373,7 +373,7 @@ Output the following value to the console.
 Paul McCartney was in the Beatles from 1960 to 1970. He was born in 1942. He contributed heavily to the Magical Myster Tour Album.
 ```
 
-## Practice
+#### Practice
 
 1. Create a new project in the `workspace/javascript/exercises/githubobjects` directory.
 1. Create a file named `github_data.js`
