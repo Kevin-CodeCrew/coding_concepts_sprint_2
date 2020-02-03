@@ -1,4 +1,19 @@
-# JavaScript ES6 - Objects
+# JavaScript ES6
+
+## Variables and data types
+
+## Input/output
+
+## Conditionals
+
+## Loops/Iteration
+
+## Functions
+
+## Try/Catch - Exception Handling
+
+## Arrays
+
 
 ## What is an Object
 
@@ -374,9 +389,18 @@ console.log(githubData[?].)
 
 > **Helpful hint:** In Visual Studio Code, you can collapse the object in an array when you have the file open.
 
-![collapsing array objects](./images/Y4jYfHibLf.gif)
+> ADD PICTURE/ANIMATION
 
 
-## What's Next?
+## Classes
 
-You are learning about objects because they are the basic building block of everything you will be creating moving forward. For example, the next couple chapters have you building components to be displayed in the browser, and those will be objects. You will also be storing data on your file system, and then retrieving them for later use. They will be stored as objects.
+## Scope/Let
+
+## Switch/Case
+
+## for/each/map
+
+## String formatting
+
+
+
