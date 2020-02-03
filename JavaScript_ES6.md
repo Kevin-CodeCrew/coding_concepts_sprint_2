@@ -109,13 +109,13 @@ const animals = [cat, dog]
 
 Take a few minutes to watch a video about [Variables vs. Arrays vs. Objects](https://www.youtube.com/watch?v=FjSCdXd04Cs).
 
-## Lightning Exercises
+## Practice
 
-> **Lightning Exercise 1:** Given two options of data structures - array or object - which should you use? You need to represent a red 2015 Ford Mustang in your code.
+> **Exercise 1:** Given two options of data structures - array or object - which should you use? You need to represent a red 2015 Ford Mustang in your code.
 
-> **Lightning Exercise 2:** Given two options of data structures - array or object - which should you use? You need to store list of animal names in a shelter. The names are "Kippers", "Jack", "Gypsy", "Angus", "Seymour Bouts", and "Sharky".
+> **Exercise 2:** Given two options of data structures - array or object - which should you use? You need to store list of animal names in a shelter. The names are "Kippers", "Jack", "Gypsy", "Angus", "Seymour Bouts", and "Sharky".
 
-> **Lightning Exercise 3:** Define an object for four family members, and put each object in an array named `familyMembers`. Each family member object that you create should have the same keys on them, but the values will be different.
+> **Exercise 3:** Define an object for four family members, and put each object in an array named `familyMembers`. Each family member object that you create should have the same keys on them, but the values will be different.
 
 ## Setting and Accessing Values on Objects
 
@@ -151,7 +151,7 @@ To output the integer 7 to the console, you would use the following code.
 console.log(`Lassie's age is ${lassie.age}`)
 ```
 
-> **Lightning Exercise:** Given the object below, output each of the values to the console using dot notation.
+> **Practice:** Given the object below, output each of the values to the console using dot notation.
 
 ```js
 const wardrobe = {
@@ -235,9 +235,9 @@ const lassiesBreed = lassie[keyToLookup]
 
 > **Instructor Note:** Talk about how expressions get evaluated from right to left, instead of the other way.
 
-### Lightning Exercises
+### Practice
 
-Time to practice dot and square-bracket notation. Use the following object to complete the lightning exercises below.
+Time to practice dot and square-bracket notation. Use the following object to complete the exercises below.
 
 ```js
 const empireStateBuilding = {
@@ -254,9 +254,9 @@ const empireStateBuilding = {
 }
 ```
 
-> **Lightning Exercises 1:** Use dot notation to output all of the dimensions of the Empire State Building to the console.
+> **Exercise 1:** Use dot notation to output all of the dimensions of the Empire State Building to the console.
 
-> **Lightning Exercises 2:** Use square bracket notation to output the remaining 5 properties to the console. Create 5 variables first with the keys as their values. Use those variables to look up the values.
+> **Exercises 2:** Use square bracket notation to output the remaining 5 properties to the console. Create 5 variables first with the keys as their values. Use those variables to look up the values.
 
 ## Arrays as Values
 
@@ -297,7 +297,7 @@ console.log(kennel.currentAnimals[3])
 > "Jacks"
 ```
 
-### Lightning Exercise
+### Practice
 
 Examine the object below.
 
@@ -313,9 +313,9 @@ const nashvilleSoftwareSchool = {
 }
 ```
 
-> **Lightning Exercise 1:** Output the names of the part-time instructors followed by the names of the full-time instructors in the console.
+> **Exercise 1:** Output the names of the part-time instructors followed by the names of the full-time instructors in the console.
 
-> **Lightning Exercise 2:** Output only Andy and Zoe in the console.
+> **Exercise 2:** Output only Andy and Zoe in the console.
 
 ## Practice: Accessing Property Values
 
