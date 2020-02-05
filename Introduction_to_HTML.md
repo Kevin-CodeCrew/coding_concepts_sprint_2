@@ -206,7 +206,7 @@ There are the many different input types you can use in HTML:
 
 # Additional Information
 1. [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
-1. Anatomy of an HTML element https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_element
+1. Anatomy of an HTML element https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_element  
 1.Anatomy of an HTML document
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_document
 1. Why you need structure
