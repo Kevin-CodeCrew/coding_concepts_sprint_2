@@ -246,3 +246,4 @@ An Ordered List:
 1. [What the code looks like when run in a browser](http://htmlpreview.github.io/?https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/html-text-formatting/text-start.html)
 1. [The definitions behind all the new HTML5 tags](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 1. [Anatomy of an attribute](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Attributes)
+1. [Inline and Bloxk Level HTML Elements Video](https://www.youtube.com/watch?v=FeIok3YFvFg)
