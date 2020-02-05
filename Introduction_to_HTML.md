@@ -87,9 +87,55 @@ Think about it as a way to chop up your web pages. Prior to building any web pag
 
 ![Semantic HTML Elements](./img/html-semantic-tags.png)
 
+
+## The Importance of Comments
+
+One of the most important things you can do for yourself, and your teammates, is comment your code. Comments in your code will not only help developers whomay have to enhance your code later,but can also help you to remember what your code is doing if you haven't been in the code for some time.
+
+When your code executes, comments are ignored and not executed like other instructions because they are specified in a special format. 
+
+```html
+<!-- Blog Post Component -->
+<article>
+
+    <!-- Header Element of Blog Post Component -->
+    <header>
+        <h1>First Week at NSS</h1>
+    </header>
+
+    <!-- Content Element of Blog Post Component -->
+    <section>
+        Saw some amazing projects from the previous
+        cohort. I'm nervous that I won't be able to do
+        that in 3 months, but the instructors keep telling
+        me that I will.
+    </section>
+
+    <!-- Footer Element of Blog Post Component -->
+    <footer>
+    By Johhny Q. Student &copy; 2018
+    </footer>
+</article>
+
+<!-- Sidebar Component -->
+<aside class="sidebar">
+    <!-- Header Element of Blog Post Component -->
+    <header>
+        <h2>Promoted Articles</h2>
+    </header>
+
+    <!-- List Element of Blog Post Component -->
+    <ul>
+        <li>First Week at NSS</li>
+        <li>Starting NSS Soon</li>
+        <li>I Got Accepted!</li>
+        <li>Thinking of Attending a Bootcamp</li>
+    </ul>
+</aside>
+```
+
 # Practice
 * [Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
-
 * [Basics 2](https://github.com/cs-fullstack-master/html-basics1-cw)
 
 # Additional Information
