@@ -236,11 +236,12 @@ An Ordered List:
 # Practice
 * [Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
 * [Basics 2](https://github.com/cs-fullstack-master/html-basics1-cw)
+* [Blocks and Sections](https://github.com/cs-fullstack-master/html-basics1-ic)
 
 # Additional Information
-1. [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
-1. [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_document)
-1. [Why you need structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#Why_do_we_need_structure)
+* [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+* [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_document)
+* [Why you need structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#Why_do_we_need_structure)
 1. [Anatomy of an HTML element](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_element)
 1. [Example of the code](https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/html-text-formatting/text-start.html)
 1. [What the code looks like when run in a browser](http://htmlpreview.github.io/?https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/html-text-formatting/text-start.html)
