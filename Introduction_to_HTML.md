@@ -199,6 +199,39 @@ There are the many different input types you can use in HTML:
   <input type="password" name="psw">
 </form>
 ```
+### HTML Lists
+HTML supports two types of lists. Unordered lists using the `<ul>` tag and ordered lists using the `<ol>` tag.
+
+Each list item, regardless of the list type, uses the `<l1>` tag.
+
+An Unordered List:
+```
+<ul>
+    <li>Item</li>
+    <li>Item</li>
+    <li>Item</li>
+    <li>Item</li>
+</ul>
+```
+
+* Item
+* Item
+* Item
+* Item
+
+An Ordered List:
+```
+<ol>
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+    <li>Fourth item</li>
+</ol>
+```
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
 
 # Practice
 * [Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
