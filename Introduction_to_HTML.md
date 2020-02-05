@@ -206,11 +206,11 @@ There are the many different input types you can use in HTML:
 
 # Additional Information
 1. [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
-1. Anatomy of an HTML element https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_element  
 1.Anatomy of an HTML document
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_document
 1. Why you need structure
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#Why_do_we_need_structure
+1. Anatomy of an HTML element https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_element  
 1. Example of the code
 https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/html-text-formatting/text-start.html
 1. What the code looks like when run in a browser
