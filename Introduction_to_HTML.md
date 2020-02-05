@@ -76,6 +76,8 @@ An example of an element that may or may not be in the HEAD section is the `<scr
 #### BODY
 Any content that you want rendered in the browser should appear in the BODY section of your HTML. Any valid HTML element can appear in this section, however only content that generates output that can be *rendered* in the browser will be displayed.
 
+Within the `BODY` you will have several types of other elements used to build your  page.
+
 ### HTML5 Semantics
 With the release of HTML version 5, several semantic HTML elements were added. These [semantic](https://en.wikipedia.org/wiki/Semantics) elements were added just to provide more meaning to HTML content. They generally do not produce output, but instead are more of a way to mark off specific sections of your web pages so that they can be more consistently and easily styled using [CSS](https://github.com/Kevin-CodeCrew/coding_concepts_sprint_2/blob/master/Introduction_to_CSS.md#introduction-to-css). Using semantic HTML elements also makes your web pages more accessible for users that rely on screen readers or similar assisting technologies.
 
@@ -131,6 +133,72 @@ When your code executes, comments are ignored and not executed like other instru
     </ul>
 </aside>
 ```
+## HTML Forms
+Forms allow us to get data input from Users to feed to our web applications. Users can fille out our form and submit the data to the server for processing.
+
+### Form Element
+The HTML <form> element defines a form that is used to collect user input:
+
+```
+<form>
+.
+  form elements
+.
+</form>
+```
+
+### The `<input>` Element
+The `<input>` element is the most important form element. Users enter data via `input` elements.
+
+The `<input>` element can be displayed in several ways, depending on the type attribute. The `type` attribute also can be used
+ perform some action, validation and/or formatting for you depending on the type. For example, type `password` input element will hide the characters that the User types in.
+
+Here are some examples:
+
+`<input type="text">`	Defines a one-line text input field
+`<input type="radio">`	Defines a radio button (for selecting one of many choices)
+`<input type="submit">`	Defines a submit button (for submitting the form)
+
+
+You will learn a lot more about input types later in this class.
+
+### HTML Input Types
+There are the many different input types you can use in HTML:
+
+```
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
+```
+
+#### Example
+```
+<form>
+  User name:<br/>
+  <input type="text" name="username"><br>
+  User password:<br/>
+  <input type="password" name="psw">
+</form>
+```
 
 # Practice
 * [Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
@@ -138,3 +206,16 @@ When your code executes, comments are ignored and not executed like other instru
 
 # Additional Information
 1. [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+1. Anatomy of an HTML element https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_element
+1.Anatomy of an HTML document
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_document
+1. Why you need structure
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#Why_do_we_need_structure
+1. Example of the code
+https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/html-text-formatting/text-start.html
+1. What the code looks like when run in a browser
+http://htmlpreview.github.io/?https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/html-text-formatting/text-start.html
+1. The definitions behind all the new HTML5 tags
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+1. Anatomy of an attribute
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Attributes
