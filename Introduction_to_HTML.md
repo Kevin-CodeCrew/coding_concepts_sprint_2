@@ -94,26 +94,24 @@ One of the most important things you can do for yourself, and your teammates, is
 
 When your code executes, comments are ignored and not executed like other instructions because they are specified in a special format. 
 
-```html
-<!-- Blog Post Component -->
+```
+<html>
+<!-- Post Component -->
 <article>
 
-    <!-- Header Element of Blog Post Component -->
+    <!-- Header Element of Post Component -->
     <header>
-        <h1>First Week at NSS</h1>
+        <h1>First Week at Code School</h1>
     </header>
 
     <!-- Content Element of Blog Post Component -->
     <section>
-        Saw some amazing projects from the previous
-        cohort. I'm nervous that I won't be able to do
-        that in 3 months, but the instructors keep telling
-        me that I will.
+        We learned a lot! I'm nervous that I won't be able to do it, but the instructors keep telling me that I will do fine.
     </section>
 
     <!-- Footer Element of Blog Post Component -->
     <footer>
-    By Johhny Q. Student &copy; 2018
+    By Joe Student &copy; 2018
     </footer>
 </article>
 
@@ -126,9 +124,9 @@ When your code executes, comments are ignored and not executed like other instru
 
     <!-- List Element of Blog Post Component -->
     <ul>
-        <li>First Week at NSS</li>
-        <li>Starting NSS Soon</li>
-        <li>I Got Accepted!</li>
+        <li>First Week at Code school</li>
+        <li>Starting Code School Soon</li>
+        <li>I Got Accepted at Code School</li>
         <li>Thinking of Attending a Bootcamp</li>
     </ul>
 </aside>
