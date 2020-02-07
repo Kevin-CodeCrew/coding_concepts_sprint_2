@@ -108,6 +108,7 @@ the **B**lock, **E**lement, **M**odifier methodology (commonly referred to as [B
 - [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [CSS Styling Text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
 - [CSS Positioning Video](https://www.youtube.com/watch?v=-vo0HzNHL3U)
+- [CSS 'Display' Property Video](https://www.youtube.com/watch?v=FeIok3YFvFg)
 
 
 
