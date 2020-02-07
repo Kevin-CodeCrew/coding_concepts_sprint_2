@@ -234,6 +234,15 @@ An Ordered List:
 4. Fourth item
 
 # Practice
+1. Create a remote git repo called `html_code_together`
+1. In your local `CodeSchool` directory clone your repo
+1. In the directory where you cloned your project create an `index.html`
+1. In VSCode build an HTML document in `index.html` WITHOUT using the HTML 5 shortcut to generate the HTML skeleton
+1. Add HTML that displays header text that say `Ready to learn! Let's get it!`
+1. Add a paragraph of text that says `I'm looking forward to learning more and will put in the effort to be successful!`
+1. Push work to your remote repo then verify that it pushed sucessfully in Github
+
+# Additional Practice
 * [Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
 * [Basics 2](https://github.com/cs-fullstack-master/html-basics1-cw)
 * [Blocks and Sections](https://github.com/cs-fullstack-master/html-basics1-ic)
