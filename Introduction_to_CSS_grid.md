@@ -3,10 +3,16 @@ CSS Grid Layout excels at dividing a page into major regions or defining the rel
 
 Like tables, grid layout enables an author to align elements into columns and rows. However, many more layouts are either possible or easier with CSS grid than they were with tables. For example, a grid container's child elements could position themselves so they actually overlap and layer, similar to CSS positioned elements.
 
+## What is a Grid in CSS
+A grid is a collection of horizontal and vertical lines creating a pattern against which we can line up our design elements. They help us to create designs where elements don’t jump around or change width as we move from page to page, providing greater consistency on our websites.
+
+A grid will typically have columns, rows, and then gaps between each row and column — commonly referred to as gutters.
+
+![Grid Terms](./img/labeled_grid.png)
+
 ## Practice
 - [CSS Grid 1](https://github.com/cs-fullstack-master/html-grid-lecture)
 - [CSS Grid 2](https://github.com/cs-fullstack-master/html-grid-ic)
-- [CSS Grid 3](https://github.com/cs-fullstack-master/html-grid-cw)
 
 ## Additional Information
 - [CSS Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
