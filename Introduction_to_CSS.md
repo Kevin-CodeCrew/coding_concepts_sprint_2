@@ -98,6 +98,7 @@ the **B**lock, **E**lement, **M**odifier methodology (commonly referred to as [B
 # Practice
 - [CSS Selectors](https://github.com/cs-fullstack-master/css-intro-selectors-box-ic)
 - [CSS Selectors and Box Model](https://github.com/cs-fullstack-master/css-intro-selectors-box-cw)
+- [CSS Selector Practice Game - CSS Diner](https://flukeout.github.io/)
 - [CSS Positioning 1](https://github.com/cs-fullstack-master/html-position_type-ic)
 - [CSS Positioning 2](https://github.com/cs-fullstack-master/html-position_type-cw)
 - [CSS Positioning 3](https://github.com/cs-fullstack-master/html-position_type_updated-cw)
