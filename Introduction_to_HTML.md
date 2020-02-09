@@ -62,7 +62,7 @@ Let's start with the primary sections of `<html>`, `<head>`, and `<body>` as wel
 #### Declarations
 In the development world, **declarations** are extra information that is provided so that processing entities can better predict the type of data they are dealing with. This includes programs like web browsers.
 
-Every HTML document should start with a declaration that specifies which version of HTML it conforms to as well as any additional [metadata](https://en.wikipedia.org/wiki/Metadata) that assists in processing of the document. While technically they are not required, it is a best practice to use them.
+HTML documents generally start with a declaration that specifies which version of HTML it conforms to as well as any additional [metadata](https://en.wikipedia.org/wiki/Metadata) that assists in processing of the document. While technically they are not required, it is a best practice to use them.
 
 As of HTML5 you can get by with a simple declaration if your HTMl is up to spec.
 
@@ -92,7 +92,13 @@ Think about it as a way to chop up your web pages. Prior to building any web pag
 
 ## The Importance of Comments
 
-One of the most important things you can do for yourself, and your teammates, is comment your code. Comments in your code will not only help developers whomay have to enhance your code later,but can also help you to remember what your code is doing if you haven't been in the code for some time.
+One of the most important things you can do for yourself, and your teammates, is comment your code. Comments in your code help developers who may have to enhance your code behind you and after you have moved on to other projects/products. 
+
+As a developer you will often be asked to maintain/fix/enhance existing source code. A code base for a project/product can become very large, consisting of 100s of files and thousands of lines of source code! If the source code contains comments throughout, it is *MUCH* easier for the developer inheriting the code to understand what it does and how it works. When there are no comments, the developer has to do a lot of manual walkthroughs and dissection just to figure out how the program works before they can even begin to try to fix and/or enhance your code.
+
+You will be grateful to the devs that came before you when you inherit an existing code base well documented and containing comments. When you write your own source code, you need to extend the same courtesy to the developers who will follow you.
+
+Comments can also help *you* to remember what *your* code is doing if you haven't been in the code for some time.
 
 When your code executes, comments are ignored and not executed like other instructions because they are specified in a special format. 
 
@@ -101,35 +107,35 @@ When your code executes, comments are ignored and not executed like other instru
 <!-- Post Component -->
 <article>
 
-    <!-- Header Element of Post Component -->
+    <!-- Header Element of  Reflection Log Component -->
     <header>
         <h1>First Week at Code School</h1>
     </header>
 
-    <!-- Content Element of Blog Post Component -->
+    <!-- Content Element of Reflection Log Component -->
     <section>
-        We learned a lot! I'm nervous that I won't be able to do it, but the instructors keep telling me that I will do fine.
+        We learned a lot! I'm nervous that I won't be able to keep up with the rest of the class, but the instructors keep telling me that I will do fine.
     </section>
 
-    <!-- Footer Element of Blog Post Component -->
+    <!-- Footer Element of Reflection Log Component -->
     <footer>
-    By Joe Student &copy; 2018
+    Joe &copy; 2020
     </footer>
 </article>
 
 <!-- Sidebar Component -->
 <aside class="sidebar">
-    <!-- Header Element of Blog Post Component -->
+    <!-- Header Element  Reflection Log Component -->
     <header>
-        <h2>Promoted Articles</h2>
+        <h2>Reflections</h2>
     </header>
 
-    <!-- List Element of Blog Post Component -->
+    <!-- List Element of  Reflection Log Component -->
     <ul>
         <li>First Week at Code school</li>
         <li>Starting Code School Soon</li>
-        <li>I Got Accepted at Code School</li>
-        <li>Thinking of Attending a Bootcamp</li>
+        <li>Accepted at Code School!!!</li>
+        <li>Applying to Code School</li>
     </ul>
 </aside>
 ```
