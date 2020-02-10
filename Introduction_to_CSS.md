@@ -116,6 +116,10 @@ position: -webkit-sticky;
 position: sticky;
 top: 20px;
 ```
+#### float and clear
+The `float` CSS property places an element on the left or right side of its container, allowing text and inline elements to wrap around it. The element is removed from the normal flow of the page, though still remaining a part of the flow (in contrast to absolute positioning).
+
+The `clear` CSS property sets whether an element must be moved below (cleared) floating elements that precede it. The clear property applies to floating and non-floating elements.
 
 ### BEM Naming in CSS
 the **B**lock, **E**lement, **M**odifier methodology (commonly referred to as [BEM](https://css-tricks.com/bem-101)) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project.
