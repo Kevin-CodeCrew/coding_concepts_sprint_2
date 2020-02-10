@@ -92,7 +92,32 @@ to this!
 
 The ID/selector names can be anything you wish, but you should always use meaningful names that make it clear which element will be affected. As a best practice we will use the [BEM]() naming convention.
 
-#### BEM Naming in CSS
+### CSS Positioning
+The position CSS property sets how an element is positioned in a document. The top, right, bottom, and left properties determine the final location of positioned elements.
+
+#### Types of Positioning
+- A *positioned* element is an element whose computed position value is either `relative`, `absolute`, `fixed`, or `sticky`. (In other words, it's anything except static.)
+```
+position: static;
+```
+- A *relatively* positioned element is an element whose computed position value is relative. The top and bottom properties specify the vertical offset from its normal position; the left and right properties specify the horizontal offset.
+```
+position: relative;
+top: 40px; left: 40px;
+```
+- An *absolutely* positioned element is an element whose computed position value is absolute or fixed. The top, right, bottom, and left properties specify offsets from the edges of the element's containing block. (The containing block is the ancestor relative to which the element is positioned.) If the element has margins, they are added to the offset. The element establishes a new block formatting context (BFC) for its contents.
+```
+position: absolute;
+top: 40px; left: 40px;
+```
+- A *stickily* positioned element is an element whose computed position value is sticky. It's treated as relatively positioned until its containing block crosses a specified threshold (such as setting top to value other than auto) within its flow root (or the container it scrolls within), at which point it is treated as "stuck" until meeting the opposite edge of its containing block.
+```
+position: -webkit-sticky;
+position: sticky;
+top: 20px;
+```
+
+### BEM Naming in CSS
 the **B**lock, **E**lement, **M**odifier methodology (commonly referred to as [BEM](https://css-tricks.com/bem-101)) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project.
 
 # Practice
@@ -107,6 +132,7 @@ the **B**lock, **E**lement, **M**odifier methodology (commonly referred to as [B
 - [CSS BEM](https://css-tricks.com/bem-101/)
 - [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 - [CSS Styling Text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
+- [MDN CSS Position Property](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [CSS Positioning Video](https://www.youtube.com/watch?v=-vo0HzNHL3U)
 - [CSS 'Display' Property Video](https://www.youtube.com/watch?v=FeIok3YFvFg)
 
