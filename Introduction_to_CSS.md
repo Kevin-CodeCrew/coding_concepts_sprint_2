@@ -92,10 +92,10 @@ to this!
 
 The ID/selector names can be anything you wish, but you should always use meaningful names that make it clear which element will be affected. As a best practice we will use the [BEM]() naming convention.
 
-### CSS Positioning
+## CSS Positioning
 The position CSS property sets how an element is positioned in a document. The top, right, bottom, and left properties determine the final location of positioned elements.
 
-#### Types of Positioning
+### Types of Positioning
 - A *positioned* element is an element whose computed position value is either `relative`, `absolute`, `fixed`, or `sticky`. (In other words, it's anything except static.)
 ```
 position: static;
@@ -121,7 +121,7 @@ The `float` CSS property places an element on the left or right side of its cont
 
 The `clear` CSS property sets whether an element must be moved below (cleared) floating elements that precede it. The clear property applies to floating and non-floating elements.
 
-### BEM Naming in CSS
+## BEM Naming in CSS
 the **B**lock, **E**lement, **M**odifier methodology (commonly referred to as [BEM](https://css-tricks.com/bem-101)) is a popular naming convention for classes in HTML and CSS. Developed by the team at Yandex, its goal is to help developers better understand the relationship between the HTML and CSS in a given project.
 
 # Practice
