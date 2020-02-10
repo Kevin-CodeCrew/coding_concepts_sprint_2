@@ -418,7 +418,7 @@ console.log(githubData[?].)
 - https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#converting-between-types
 - https://javascript.info/type-conversions
 
-### Input/Output (you can ignore confirm)
+### Input/Output
 - https://javascript.info/alert-prompt-confirm
 - https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#input
 
