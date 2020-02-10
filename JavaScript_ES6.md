@@ -406,19 +406,19 @@ console.log(githubData[?].)
 - https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#statements
 - https://javascript.info/hello-world
 
-### variables:
+### Variables:
 - https://javascript.info/variables
 - https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#variables
 
-### data types
+### Data types
 - https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#values--types
 - https://javascript.info/types
 
-### conversion
+### Conversion
 - https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#converting-between-types
 - https://javascript.info/type-conversions
 
-### input/output (you can ignore confirm)
+### Input/Output (you can ignore confirm)
 - https://javascript.info/alert-prompt-confirm
 - https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#input
 
