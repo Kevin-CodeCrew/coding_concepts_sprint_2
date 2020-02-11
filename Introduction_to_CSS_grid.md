@@ -16,6 +16,7 @@ A grid will typically have columns, rows, and then gaps between each row and col
 
 ## Additional Information
 - [CSS Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+- [Fractional Units (fr) in CSS Grid](https://hackernoon.com/understanding-css-grids-fractional-units-fr-the-easy-way-5f43ee008f29)
 
 ## References
 #### What is grid layout:
@@ -36,3 +37,5 @@ Lecture Repo: [https://classroom.github.com/a/CaIB-dhG](https://classroom.github
 ## Practice Repos
 Practice 1: [https://classroom.github.com/a/RMAEYNWd](https://classroom.github.com/a/RMAEYNWd)
 
+---------------
+[BACK TO TOP](#introduction-to-layouts-using-css-grid)

@@ -165,8 +165,9 @@ Here are some examples:
 `<input type="radio">`	Defines a radio button (for selecting one of many choices)
 `<input type="submit">`	Defines a submit button (for submitting the form)
 
-
 You will learn a lot more about input types later in this class.
+
+
 
 ### HTML Input Types
 There are the many different input types you can use in HTML:
@@ -264,3 +265,7 @@ An Ordered List:
 1. [Anatomy of an attribute](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Attributes)
 1. [Inline and Block Level HTML Elements Video](https://www.youtube.com/watch?v=FeIok3YFvFg)
 1. [HTTP and HTML Video](https://www.youtube.com/watch?v=1K64fWX5z4U)
+1. [MDN: HTML Forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+
+---------------
+[BACK TO TOP](#introduction-to-html)
