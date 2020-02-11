@@ -1,4 +1,6 @@
 # Introduction to Layouts Using CSS Grid
+#### [Back to Concepts](./README.md)
+-------------------
 CSS Grid Layout excels at dividing a page into major regions or defining the relationship in terms of size, position, and layer, between parts of a control built from HTML primitives.
 
 Like tables, grid layout enables an author to align elements into columns and rows. However, many more layouts are either possible or easier with CSS grid than they were with tables. For example, a grid container's child elements could position themselves so they actually overlap and layer, similar to CSS positioned elements.
@@ -18,7 +20,7 @@ A grid will typically have columns, rows, and then gaps between each row and col
 - [CSS Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
 - [Fractional Units (fr) in CSS Grid](https://hackernoon.com/understanding-css-grids-fractional-units-fr-the-easy-way-5f43ee008f29)
 
-## References
+## Other References
 #### What is grid layout:
 
 [https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#What_is_grid_layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#What_is_grid_layout)
