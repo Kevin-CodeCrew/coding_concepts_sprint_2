@@ -1,4 +1,29 @@
-## JavaScript - Formatting Text Output with Templates
+# JavaScript - Formatting Text Output with Templates
+
+Template literals (originally called `Template strings`), were introduced in ES6 to make it much easier for developers to produce formatted text output. Prior to `Template Literals`, when your program needed to print out some text consisting of both static text and variable data, you would usually *concatenate* the different data together into a big `string` using the `+` operator as in:
+
+```
+// Declare 2 variables to hold the 2 scores
+let homeTeamScore = 87;
+let visitingTeamScore = 72;
+
+// Build a string to print usic fixed/static text and score variables
+let finalScoreString = 'The final score was:' + '\n' + ' Vistors - ' + visitingTeamScore + '\n' + ' The Home Team - ' + homeTeamScore + '\n';
+
+// Print out the concatenated string
+console.log(finalScoreString);
+```
+Expected Output:
+```
+The final score was:
+ Vistors - 72
+ The Home Team - 87
+ ```
+Building and output string using the `+` operator can get messy fast, and because you have to keep up of where you need to add an extra space betweens and/or line breaks (`\n`) makes it easy to make mistakes and end up with poorly formatted output on the screen or in your error logs. Template literals address many of these frustrating concerns and allows you to specify a template that is much more heman readable and less error prone. 
+
+In JavaScript, template literals are simply strings that use special characters/patterns to designate where variable data should but output. Let's refactor the code above to use template literals instead of string concatenation.
+
+
 
 ## Practice:
 [Template Strings Practice 1](https://github.com/cs-fullstack-master/javascript-template-strings-ic2)
