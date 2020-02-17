@@ -45,7 +45,8 @@ let finalScoreString =
 // Print out the concatenated string
 console.log(finalScoreString);
 ```
-With template literals, you type a template string that more natually resembles the disered output, with natual spacing around values, including line breaks were desired.
+With template literals, you type a template string that more natually resembles the disered output, with natual spacing around values, including line breaks were desired.Note how in this example, the name in `${the_expression}` matches the variable name(s) that return the value in the variable when we output it in the console.
 
+> For now, it is OK to assume that your placeholders will match the names of variables in your code, but get used to hearing the term `expression` as it comes up frequently in JavaScript and other programming languages. It simply means passing items that can be evaluated/executed by the JavaScript runtime. For example a simple variable expression, just returns the current value of the variable when evaluated
 ## Practice:
 [Template Strings Practice 1](https://github.com/cs-fullstack-master/javascript-template-strings-ic2)
