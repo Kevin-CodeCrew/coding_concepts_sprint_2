@@ -5,3 +5,4 @@
 * [HTML Forms](./introduction_to_HTML_forms.md)
 * [CSS and Responsiveness](./Introduction_to_CSS.md)
 * [JavaScript ES6](./JavaScript_ES6.md)
+** [Formatting Text Output with Templates](/javascript_template_strings.md)
