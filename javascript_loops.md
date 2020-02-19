@@ -97,10 +97,10 @@ for (let i = 0; i < 10; i++) {
 ## Practice
 - [For Loops](https://github.com/cs-fullstack-master/JavaScript-forLoops_ic)
 - [While Loops](https://github.com/cs-fullstack-master/JavaScript-whileloops-ic)
-- [Loops and ]
 
 ## Additional Information
 - [Adding Array Elements via Loops Video](https://youtu.be/n6pCS-w1M3o)
-
+- [Eloquent JavaScript - Do Loops](https://eloquentjavascript.net/02_program_structure.html#p_FIHE6k56BA)
+- [Eloquent JavaScript - For Loops](https://eloquentjavascript.net/02_program_structure.html#h_oupMC+5FKN)
 
 [BACK TO TOP](#JavaScript-Loops)
