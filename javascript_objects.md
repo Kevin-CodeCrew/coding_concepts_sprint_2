@@ -2,84 +2,73 @@
 
 You can think of object as containers for data. It can have multiple kinds of data - strings, integers, booleans, functions, arrays, etc. One of the powerful features of an object - that you can't do with an array - is to label the data inside the container.
 
-For example, the number 1 has no meaning in an application by itself. You have no idea what that integer represents until assign it a name. On objects, those are called keys.
+For example, the number `1` has no meaning in an application by itself. You have no idea what that integer represents until assign it a name. On objects, those are called keys.
 
 ```js
 /*
-    Basic object representing my dog Angus.
+    Basic object representing my friend Angus.
     - The object itself is labeled with the variable of `angus`
-    - The integer of 1 is labeled with the key of `age`
+    - The integer of 50 is labeled with the key of `age`
 */
 const angus = {
-    age: 1
+    age: 50
 }
 
-// Another object representing my child Tessa
-const tessa = {
-    age: 1
+// Another object representing his brother Malcom
+const malcom = {
+    age: 53
 }
 ```
 
-Now the number 1 has meaning, or context, when assigned to a key on these objects.
+Now the number 50 and 53 have meaning, or *context*, when assigned to a key on these objects.
 
-### Why are you Learning this?
+> Everything in JavaScript is an object and *objects* are the basis of *Object Oriented Programming (OOP)*
 
-Objects are the basis of what's called Object Oriented Programming, where everything in your application is represented as an object to represent data, and be manipulated by you.
+### What does an Object Literal Look Like?
 
-### What does an Object Look Like?
+Until you get to more advanced JavaScript, you can recognize an object literal because it follows this pattern.
 
-Until you get to more advanced JavaScript, you can recognize an object because it follows this pattern.
+* Curly braces surround the properties of an object literal
+* The *properties* are the key/value pairs separated by a colon
+* Properties of the object are separated by a comma
 
-* Open and closing curly braces
-* Contains keys and values separated by a colon
-* Key/value pairs are separated by a comma
-
-This is an object. It represents a single food.
+An example of an 'album' object literal:
 
 ```js
-const food = {
-    type: "Hamburger",
-    size: "Small",
-    temperature: "Medium rare"
+const album = {
+    name: "The Battle of Los Angeles",
+    release_date: 1999,
+    band: "Rage Against the Machine"
 }
 ```
 
-![](./img/js_onject.png)
+> ADD IMAGE LABELED KEY/VALUES
 
-This is not an object. It doesn't represent a singular thing. It also has no curly braces, or key/values pairs. When using an array to store these strings, they have now lost their context.
-
-```js
-const food = ["Hamburger", "Small", "Medium rare"]
-```
-
-This is an object. It represents a desk and itemizes the properties of it.
+The same data stored as below is not an object.
 
 ```js
-const desk = {
-    height: 42,
-    width: 63,
-    depth: 30
-}
+const food = ["The Battle of Los Angeles", "1999", "Rage Against the Machine"]
 ```
+The array above doesn't represent a singular thing. It also has no curly braces, or key/value pairs. When using an array to store these strings, they have now lost their *context*.
 
 ### How are Objects Different from Arrays?
 
-Arrays are collections of similiar things. Objects are ways to define details of a single thing. Both an array and an object can be assigned to a variable.
+Arrays are collections of similiar *things*. Objects are ways to define details of a *single* thing. Both an array and an object can be assigned to a variable.
 
 Here you define two separate objects. One represents a cat, and the other represents a dog. Each has their own properties _(key/value pairs)_ separated by commas.
 
 ```js
-const whiskers = {
+const cat_dog = {
     species: "Cat",
-    name: "Whiskers",
+    name: "Cat Dog",
     age: 4,
-    color: "Black"
+    color: "Calico"
 }
 
-const dozer = {
+const elvis = {
     species: "Dog",
-    name: "Dozer",
-    age: 7,
+    name: "Elvis",
+    age: 11,
     color: "Brown"
 }
 ```
@@ -87,7 +76,7 @@ const dozer = {
 Developers never describe two things with a single object.
 
 ```js
-// Don't do this
+// DON'T do this
 const theAnimals = {
     catName: "Jingles",
     catAge: 4,
@@ -98,14 +87,12 @@ const theAnimals = {
 }
 ```
 
-If you want to store both animals inside of a single data structure, this is what arrays are used for. In this case, if you want to store both of those animals in a single thing, you would put them both in an array.
+If you want to store both animals inside of a single data structure, use an array. 
 
 ```js
 // This array is a collection of animals
 const animals = [cat, dog]
 ```
-
-Take a few minutes to watch a video about [Variables vs. Arrays vs. Objects](https://www.youtube.com/watch?v=FjSCdXd04Cs).
 
 ### Object Practice
 
@@ -262,15 +249,14 @@ So far, you've been largely accessing string and integer values in an object. Ho
 
 ```js
 const kennel = {
-    name: "Nashville North Kennels",
-    address: "100 Demonbreun Road",
-    manager: "Harper Frankstone",
+    name: "Sunny Meadows Safe Haven-Pets",
+    address: "4066 New Getwell Rd,",
     capacity: 50,
     currentAnimals: ["Jet", "Snickers", "Blue", "Jacks", "Flap", "Barnum"]
 }
 ```
 
-If you want to display all of the animals that are currently being boarded, you first have to access the array. You can use dot notation to get that value.
+If you want to display all of the animals that are currently being boarded, you first have to access the array. You can use *dot* notation to get that value.
 
 ```js
 const boardedAnimals = kennel.currentAnimals
@@ -300,22 +286,23 @@ console.log(kennel.currentAnimals[3])
 Examine the object below.
 
 ```js
-const nashvilleSoftwareSchool = {
-    founded: 2012,
-    director: "John Wark",
+const code_school = {
+    founded: 2018,
+    director: "Meka",
     instructors: {
-        fullTime: ["Jisie", "Brenda", "Steve", "Joe", "Andy"],
-        partTime: ["Zoe", "Nathan"]
+        fullTime: ["Autumn", "Kenn", "Kevin"],
+        partTime: ["PJ", "Thomas"]
     },
-    address: "500 Interstate Blvd. S"
+    address: "80 Union Ave."
 }
 ```
+## Practice:
 
 > **Exercise 1:** Output the names of the part-time instructors followed by the names of the full-time instructors in the console.
 
-> **Exercise 2:** Output only Andy and Zoe in the console.
+> **Exercise 2:** Output only Autumn and Thomas in the console.
 
-#### Practice: Accessing Property Values
+### Practice: Accessing Property Values
 
 Given the following object...
 
@@ -357,19 +344,5 @@ Output the following value to the console.
 Paul McCartney was in the Beatles from 1960 to 1970. He was born in 1942. He contributed heavily to the Magical Myster Tour Album.
 ```
 
-#### Practice
-
-1. Create a new project in the `workspace/javascript/exercises/githubobjects` directory.
-1. Create a file named `github_data.js`
-1. Copy the contents of [github_data.js](./github_data.js) here in the course to your local file.
-
-Your task is to use your knowledge of accessing property values and array indices to output the commit message for the push event with an id of `8030403992`.
-
-```js
-// Start with this
-console.log(githubData[?].)
-```
-
-> **Helpful hint:** In Visual Studio Code, you can collapse the object in an array when you have the file open.
-
-> ADD PICTURE/ANIMATION
+## Additional Information
+- [Variables vs. Arrays vs. Objects video](https://www.youtube.com/watch?v=FjSCdXd04Cs)
