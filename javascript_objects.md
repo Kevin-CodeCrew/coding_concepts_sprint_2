@@ -239,13 +239,17 @@ const empireStateBuilding = {
 }
 ```
 
-> **Exercise 1:** Use dot notation to output all of the dimensions of the Empire State Building to the console.
+> **Exercise 1:** 
 
-> **Exercises 2:** Use square bracket notation to output the remaining 5 properties to the console. Create 5 variables first with the keys as their values. Use those variables to look up the values.
+Use dot notation to output all of the dimensions of the Empire State Building to the console.
+
+> **Exercises 2:** 
+
+Use square bracket notation to output the remaining 5 properties to the console. Create 5 variables first with the keys as their values. Use those variables to look up the values.
 
 ### Arrays as Object Properties
 
-So far, you've been largely accessing string and integer values in an object. However, values can be anything in the JavaScript language - including arrays. Consider this example.
+So far, you've been largely accessing string and integer property values in an object. However, property values can be anything in the JavaScript language - including arrays. Consider this example.
 
 ```js
 const kennel = {
@@ -259,26 +263,32 @@ const kennel = {
 If you want to display all of the animals that are currently being boarded, you first have to access the array. You can use *dot* notation to get that value.
 
 ```js
+// Retrieve the array value of the `currentAnimals` property
 const boardedAnimals = kennel.currentAnimals
 
+// Use a for loop and iterate through the returned array
 for (let i = 0; i < boardedAnimals.length; i++) {
     console.log(boardedAnimals[i])
 }
-
-> "Jet"
-> "Snickers"
-> "Blue"
-> "Jacks"
-> "Flap"
-> "Barnum"
+```
+Expected Output
+```
+Jet
+Snickers
+Blue
+Jacks
+Flap
+Barnum
 ```
 
 If you wanted to pull a single animal form the array, and display it, you can use the index value. To show the fourth animals in that array, you would use the following code.
 
 ```js
 console.log(kennel.currentAnimals[3])
-
-> "Jacks"
+```
+Expected Output
+```
+Jacks
 ```
 
 #### Practice
