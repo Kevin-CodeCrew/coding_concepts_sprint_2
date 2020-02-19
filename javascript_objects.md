@@ -1,4 +1,4 @@
-# JavaScript Objects
+# Objects
 #### [Back to Concepts](./README.md)
 
 You can think of object as containers for data. It can have multiple kinds of data - strings, integers, booleans, functions, arrays, etc. One of the powerful features of an object - that you can't do with an array - is to label the data inside the container.
