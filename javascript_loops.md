@@ -47,7 +47,7 @@ do {
   // loop body
 } while (condition);
 ```
-The **most important** thing to not that is different about `do-while` loops, as the code block will *always* execute at least one time as the exit condition will not be checked until the end of the first iteration.
+The **most important** thing to note that is different about `do-while` loops, as the code block will *always* execute at least one time as the exit condition will not be checked until the end of the first iteration.
 ```js
 let i = 0;
 do {
