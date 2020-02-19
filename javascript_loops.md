@@ -96,7 +96,9 @@ for (let i = 0; i < 10; i++) {
 
 ## Practice
 - [For Loops](https://github.com/cs-fullstack-master/JavaScript-forLoops_ic)
-- [While Loops](https://github.com/cs-fullstack-master/JavaScript-whileloops-ic)
+- [While Loops 1](https://github.com/cs-fullstack-master/JavaScript-whileloops-ic)
+- [While Loops 2](https://github.com/cs-fullstack-master/javaScript-week1-review)
+
 
 ## Additional Information
 - [Adding Array Elements via Loops Video](https://youtu.be/n6pCS-w1M3o)
