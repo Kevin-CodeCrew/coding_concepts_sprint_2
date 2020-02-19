@@ -76,7 +76,7 @@ alert( 'Sum: ' + sum );
 ```
 
 ## Continuing to the Next Iteration Early
-During each iteation of a loop, we typically run each instruction inside the code block, returning to the top of the block when the end is reached to perform the next iteration.
+During each iteration of a loop, we typically run each instruction inside the code block, returning to the top of the block when the end is reached to perform the next iteration.
 
 However there will be times when you will want to proceed to the next iteration early skipping some of the remaining instructions in the loop. For example if while letting the user enter a name that is saved in a database, you will want to skip the database save part of the loop and go back to the top and prompt them again if the data they entered was invalid.
 
