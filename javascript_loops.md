@@ -101,10 +101,12 @@ for (let i = 0; i < 10; i++) {
 
 
 ## Additional Information
-- [Adding Array Elements via Loops Video](https://youtu.be/n6pCS-w1M3o)
 - [Eloquent JavaScript - Do Loops](https://eloquentjavascript.net/02_program_structure.html#p_FIHE6k56BA)
 - [Eloquent JavaScript - For Loops](https://eloquentjavascript.net/02_program_structure.html#h_oupMC+5FKN)
 - [MDN - Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+- [Beginner JavaScript Tutorial - 20 - while Loop video](https://youtu.be/QPFW_0blw9w)
+- [Adding Array Elements via Loops Video](https://youtu.be/n6pCS-w1M3o)
+
 
 
 [BACK TO TOP](#JavaScript-Loops)
