@@ -23,7 +23,7 @@ for (let i = 0; i < 3; i++) { // shows 0, then 1, then 2
 }
 ```
 
-## While Loops
+## `while` Loops
 Beginners tend to have more difficulty with `while` loops when first starting out.
 ```js
 while (condition) {
@@ -38,6 +38,22 @@ while (i < 3) { // shows 0, then 1, then 2
   alert( i );
   i++;
 }
+```
+
+## `do…while` loop
+The condition check can be moved below the loop body using the do..while syntax:
+```js
+do {
+  // loop body
+} while (condition);
+```
+The **most important** thing to not that is different about `do-while` loops, as the code block will *always* execute at least one time as the exit condition will not be checked until the end of the first iteration.
+```js
+let i = 0;
+do {
+  alert( i );
+  i++;
+} while (i < 3);
 ```
 ## Breaking out of Loops Early
 Generally a loop will execute until whatever condition is met and then exit the loop and process the next line of code. However, you can prematurely terminate a loop using the `break` keyword.
