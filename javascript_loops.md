@@ -82,6 +82,7 @@ However there will be times when you will want to proceed to the next iteration 
 
 To skip the rest of the iteration and start back at the top of the code block for the next iteration, we can use the `continue` keyword.
 ```js
+// Only alert on non-even numbers else move on to the next number
 for (let i = 0; i < 10; i++) {
 
   // if true, skip the remaining part of the body
