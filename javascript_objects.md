@@ -1,4 +1,5 @@
-# Objects
+# JavaScript Objects
+#### [Back to Concepts](./README.md)
 
 You can think of object as containers for data. It can have multiple kinds of data - strings, integers, booleans, functions, arrays, etc. One of the powerful features of an object - that you can't do with an array - is to label the data inside the container.
 
@@ -355,4 +356,8 @@ Paul McCartney was in the Beatles from 1960 to 1970. He was born in 1942. He con
 ```
 
 ## Additional Information
+- [MDN Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- [MDN JavaScript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 - [Variables vs. Arrays vs. Objects video](https://www.youtube.com/watch?v=FjSCdXd04Cs)
+
+[BACK TO TOP](#JavaScript-Objects)
