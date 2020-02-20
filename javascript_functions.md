@@ -38,9 +38,8 @@ https://gist.github.com/autumn-ragland/7a8519bffb45279f3c84242aa8b04f75
 
 
 ### In class Practice:
-https://github.com/cs-fullstack-master/python-functions-ic
+https://classroom.github.com/a/Jz63jn63
 
 ## After Class Practice
 Practice:
 
-https://github.com/cs-fullstack-master/JavaScript-Functions-cw
