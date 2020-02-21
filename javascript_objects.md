@@ -35,17 +35,9 @@ Until you get to more advanced JavaScript, you can recognize an object literal b
 
 An example of an 'album' object literal:
 
-```js
-const album = {
-    name: "The Battle of Los Angeles",
-    release_date: 1999,
-    band: "Rage Against the Machine"
-}
-```
+![Object Property Name/Value Pair](./img/Selection_004.png)
 
-> ADD IMAGE LABELED KEY/VALUES
-
-The same data stored as below is not an object.
+The same data stored as below is not an object but instead is an array.
 
 ```js
 const food = ["The Battle of Los Angeles", "1999", "Rage Against the Machine"]
@@ -79,10 +71,10 @@ Developers never describe two things with a single object.
 ```js
 // DON'T do this
 const theAnimals = {
-    catName: "Jingles",
+    catName: "Latty",
     catAge: 4,
     catColor: "Black",
-    dogName: "Denver",
+    dogName: "Jack",
     dogAge: 7,
     dogColor: "Brown"
 }
@@ -95,24 +87,16 @@ If you want to store both animals inside of a single data structure, use an arra
 const animals = [cat, dog]
 ```
 
-### Object Practice
-
-> **Exercise 1:** Given two options of data structures - array or object - which should you use? You need to represent a red 2015 Ford Mustang in your code.
-
-> **Exercise 2:** Given two options of data structures - array or object - which should you use? You need to store list of animal names in a shelter. The names are "Kippers", "Jack", "Gypsy", "Angus", "Seymour Bouts", and "Sharky".
-
-> **Exercise 3:** Define an object for four family members, and put each object in an array named `familyMembers`. Each family member object that you create should have the same keys on them, but the values will be different.
-
 ### Setting and Accessing Values on Objects
 
-There are two ways to access the values stored inside of an object. One is called dot notation, and the other is square bracket notation.
+There are two ways to access the values stored inside of an object. One is called *dot notation*, and the other is *square bracket notation*. 
 
 #### Dot Notation
 
-To obtain the value inside an object, and you know the name of the key, you can use dot notation. Here's the pattern.
+To obtain the value inside an object, and you know the name of the property name/key, you can use dot notation. Here's the syntax.
 
 ```js
-variableContainingTheObject.keyName
+variableContainingTheObjectReference.propertyName
 ```
 
 Given the following object...
@@ -125,28 +109,16 @@ const lassie = {
 }
 ```
 
-To output the string "Collie" to the console, you would use the following code.
+To output the breed property with the value of "Collie" to the console, you would use the following code.
 
 ```js
 console.log(`Lassie's breed is ${lassie.breed}`)
 ```
 
-To output the integer 7 to the console, you would use the following code.
+To output the age property with the value of 7 to the console, you would use the following code.
 
 ```js
 console.log(`Lassie's age is ${lassie.age}`)
-```
-
-> **Practice:** Given the object below, output each of the values to the console using dot notation.
-
-```js
-const wardrobe = {
-    height: 80,
-    manufacturer: "Killibrew & Sons",
-    contents: ["Dress shirt", "Jeans", "Suit", "Skirt", "Tennis shoes"],
-    depth: 38,
-    width: 50
-}
 ```
 
 You can also use dot notation to create a new key on an object if you need to.
@@ -221,9 +193,34 @@ const lassiesBreed = lassie[keyToLookup]
 
 > **Instructor Note:** Talk about how expressions get evaluated from right to left, instead of the other way.
 
-#### Practice
 
-Time to practice dot and square-bracket notation. Use the following object to complete the exercises below.
+## Practice
+
+> **Practice 1:** 
+Given two options of data structures - array or object - which should you use? You need to represent a red 2015 Ford Mustang in your code.
+
+> **Practice 2:** 
+Given two options of data structures - array or object - which should you use? You need to store list of animal names in a shelter. The names are "Kippers", "Jack", "Gypsy", "Angus", "Seymour Bouts", and "Sharky".
+
+> **Practice 3:** 
+Define an object for four family members, and put each object in an array named `familyMembers`. Each family member object that you create should have the same keys on them, but the values will be different.
+
+> **Practice 4:** 
+Given the object below, output each of the values to the console using dot notation.
+
+```js
+const wardrobe = {
+    height: 80,
+    manufacturer: "Killibrew & Sons",
+    contents: ["Dress shirt", "Jeans", "Suit", "Skirt", "Tennis shoes"],
+    depth: 38,
+    width: 50
+}
+```
+
+**Practice 5:**
+
+Use the following object to complete the exercises below.
 
 ```js
 const empireStateBuilding = {
