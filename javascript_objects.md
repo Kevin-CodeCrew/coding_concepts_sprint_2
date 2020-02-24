@@ -3,7 +3,7 @@
 
 You can think of object as containers for data. It can have multiple kinds of data - strings, integers, booleans, functions, arrays, etc. One of the powerful features of an object - that you can't do with an array - is to label the data inside the container.
 
-For example, the number `1` has no meaning in an application by itself. You have no idea what that integer represents until assign it a name. On objects, those are called keys.
+For example, the number `50` has no meaning in an application by itself. You have no idea what that integer represents until assign it a name. On objects, those are called keys.
 
 ```js
 /*
