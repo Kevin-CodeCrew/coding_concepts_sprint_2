@@ -12,3 +12,4 @@
   * [Loops](./javascript_loops.md)
   * [Functions](./javascript_functions.md)
   * [Objects](./javascript_objects.md)
+  * [Classes](./classes.md)
