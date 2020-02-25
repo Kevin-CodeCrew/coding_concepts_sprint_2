@@ -61,6 +61,6 @@ console.log(square.calcArea()); // call a class method on an instance of that cl
 
 ## Classwork Review Video :
 
-[]()
+[https://youtu.be/rliKiLuIXOM](https://youtu.be/rliKiLuIXOM)
 
 ### [BACK TO TOP](#Classes)
