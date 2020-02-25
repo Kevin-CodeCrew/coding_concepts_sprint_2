@@ -1,7 +1,7 @@
 # Classes
 ### [Back to Concepts](./README.md)
 
-## Basics :
+## Syntax :
 ```JavaScript
 // Class Definition
 class Rectangle {
@@ -41,11 +41,11 @@ console.log(square.calcArea()); // call a class method on an instance of that cl
 
 ## Extra Practice :
 
-[]()
+[https://classroom.github.com/a/fw-SyXEM](https://classroom.github.com/a/fw-SyXEM)
 
 ## IC Assignment Link : 
 
-[]()
+[https://github.com/cs-fullstack-master/JavaScript-classes_objects-ic](https://github.com/cs-fullstack-master/JavaScript-classes_objects-ic)
 
 ## IC Answers :
 
@@ -53,7 +53,7 @@ console.log(square.calcArea()); // call a class method on an instance of that cl
 
 ## CW Assignment Link :
 
-[]()
+[https://classroom.github.com/a/N8j0BYMJ](https://classroom.github.com/a/N8j0BYMJ)
 
 ## CW Answers :
 
