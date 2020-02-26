@@ -34,28 +34,33 @@ console.log(square.calcArea()); // call a class method on an instance of that cl
 
 [Medium Article - Classes](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
 
+## Assignments 
 
-## Lecture Gist :
+#### Lecture Gist :
 
 [https://gist.github.com/autumn-ragland/1ef2ac1073c1f616fb60e1b8f1d64666#file-classes_lecture-js](https://gist.github.com/autumn-ragland/1ef2ac1073c1f616fb60e1b8f1d64666#file-classes_lecture-js)
 
-## Extra Practice :
+#### Extra Practice :
 
 [https://classroom.github.com/a/fw-SyXEM](https://classroom.github.com/a/fw-SyXEM)
 
-## IC Assignment Link : 
+#### Extra Practice Answers :
+
+[https://gist.github.com/autumn-ragland/1ef2ac1073c1f616fb60e1b8f1d64666#file-classes_practice-js](https://gist.github.com/autumn-ragland/1ef2ac1073c1f616fb60e1b8f1d64666#file-classes_practice-js)
+
+#### IC Assignment Link : 
 
 [https://github.com/cs-fullstack-master/JavaScript-classes_objects-ic](https://github.com/cs-fullstack-master/JavaScript-classes_objects-ic)
 
-## IC Answers :
+#### IC Answers :
 
 [https://gist.github.com/autumn-ragland/1ef2ac1073c1f616fb60e1b8f1d64666#file-classes_ic-js](https://gist.github.com/autumn-ragland/1ef2ac1073c1f616fb60e1b8f1d64666#file-classes_ic-js)
 
-## CW Assignment Link :
+#### CW Assignment Link :
 
 [https://classroom.github.com/a/N8j0BYMJ](https://classroom.github.com/a/N8j0BYMJ)
 
-## CW Answers :
+#### CW Answers :
 
 [https://gist.github.com/autumn-ragland/1ef2ac1073c1f616fb60e1b8f1d64666#file-classes_cw-js](https://gist.github.com/autumn-ragland/1ef2ac1073c1f616fb60e1b8f1d64666#file-classes_cw-js)
 
