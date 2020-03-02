@@ -14,7 +14,7 @@ function greet(event){
 }
 ```
 ## Concepts :
-```
+
 The EventTarget method addEventListener() sets up a function that will be called whenever the specified event is delivered to the target. Common targets are Element, Document, and Window, but the target may be any object that supports events (such as XMLHttpRequest).
 
 addEventListener() works by adding a function or an object that implements EventListener to the list of event listeners for the specified event type on the EventTarget on which it's called.
@@ -32,7 +32,7 @@ The EventTarget.removeEventListener() method removes from the EventTarget an eve
 If an EventListener is removed from an EventTarget while it is processing an event, it will not be triggered by the current actions. An EventListener will not be invoked for the event it was registered for after being removed. However, it can be reattached.
 
 Calling removeEventListener() with arguments that do not identify any currently registered EventListener on the EventTarget has no effect.
-```
+
 ## Common Mouse Events 
 
 |Event Name	        |Fired When
