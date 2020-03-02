@@ -53,6 +53,6 @@ window.scrollTo()
 [https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 
 ## Classwork Review Video :
-
+[https://youtu.be/aEcjza7Jt3Q](https://youtu.be/aEcjza7Jt3Q)
  
 ### [BACK TO TOP](#Selectors)
