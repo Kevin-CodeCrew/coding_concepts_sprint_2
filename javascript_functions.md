@@ -40,7 +40,5 @@ https://gist.github.com/autumn-ragland/7a8519bffb45279f3c84242aa8b04f75
 ### In class Practice
 https://classroom.github.com/a/Jz63jn63
 
-### After Class Practice
-
 ### Classwork Review Video:
 https://youtu.be/II3FEAj6eRE

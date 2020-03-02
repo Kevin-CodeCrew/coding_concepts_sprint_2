@@ -7,7 +7,7 @@
 * [HTML Forms](./introduction_to_HTML_forms.md)
 * [CSS and Responsiveness](./Introduction_to_CSS.md)
 * [JavaScript ES6](./JavaScript_ES6.md)
-  * [Vaiables and Data Types](./variables_dataTypes.md)
+  * [Variables and Data Types](./variables_dataTypes.md)
   * [Conditionals](./conditionals.md)
   * [Formatting Text Output with Templates](./javascript_template_strings.md)
   * [Arrays](./javascript_arrays.md)
@@ -15,4 +15,5 @@
   * [Functions](./javascript_functions.md)
   * [Objects](./javascript_objects.md)
   * [Classes](./classes.md)
+  * [Higher Order Functions](./javascript_higher_order_functions.md)
 
