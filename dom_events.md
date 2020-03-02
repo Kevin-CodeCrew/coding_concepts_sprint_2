@@ -5,11 +5,8 @@
 ```JavaScript
 // How to register an event listener 
 // Assuming myButton is a button element
-myButton.addEventListener('click', greet, false)
+myButton.addEventListener('click', greet)
 function greet(event){
-    // print and have a look at the event object 
-    // always print arguments in case of overlooking any other arguments
-    console.log('greet:', arguments)
     alert('hello world')
 }
 ```
