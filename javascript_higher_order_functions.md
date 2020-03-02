@@ -57,5 +57,3 @@ The filter() method creates a new array with all elements that pass the test imp
 [Dev.to - Higher Order Functions](https://dev.to/damcosset/higher-order-functions-in-javascript-4j8b)
 
 [YouTube Video - Higher Order Functions](https://www.youtube.com/watch?v=rRgD1yVwIvE)
-
-[Medium Article - Classes](https://medium.com/tech-tajawal/javascript-classes-under-the-hood-6b26d2667677)
