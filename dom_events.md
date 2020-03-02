@@ -3,11 +3,19 @@
 
 ## Syntax :
 ```JavaScript
-// How to register an event listener 
+// Add Event Listener
 // Assuming myButton is a button element
 myButton.addEventListener('click', greet)
 function greet(event){
     alert('hello world')
+}
+// Remove Event Listener 
+myButton.removeEventListener('click', greet)
+// Add Event Listener to Multiple Elements
+myElements.forEach((element) => element.addEventListener("click", printSelection))
+function printSelection(event){
+    let selectedElement = event.toElement.innerHTML;
+    console.log(`You clicked : ${selectedElement}`)
 }
 ```
 ## Concepts :
