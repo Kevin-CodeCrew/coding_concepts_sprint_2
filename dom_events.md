@@ -81,7 +81,7 @@ The DOMTokenList itself is read-only, although you can modify it using the add()
 |progress	|In progress.
 |timeout	|Progression is terminated due to preset time expiring.
 
-## Refrence Links :
+## Reference Links :
 [DOM Events](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Events)
 
 [Add Event Listener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
@@ -95,25 +95,25 @@ The DOMTokenList itself is read-only, although you can modify it using the add()
 ## Assignments 
 
 
-#### Lecture Gist :
+#### Lecture Gist : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-lecture-js
 
 
-#### Extra Practice :
+#### Extra Practice : https://classroom.github.com/a/xIeYhxfj
 
 
-#### Extra Practice Answers :
+#### Extra Practice Answers : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-practice-js
 
 
-#### IC Assignment Link : 
+#### IC Assignment Link :  
 
 
-#### IC Answers :
+#### IC Answers : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-ic-js
 
 
 #### CW Assignment Link :
 
 
-#### CW Answers :
+#### CW Answers : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-cw-js
 
 
 ## Classwork Review Video :
