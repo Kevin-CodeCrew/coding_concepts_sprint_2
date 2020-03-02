@@ -3,22 +3,14 @@
 
 ## Syntax :
 ```JavaScript
-// Get Elements By Tay Name
-const paragraphs = document.getElementsByTagName("p");
-// paragraphs[0] is the first <p> element
-// paragraphs[1] is the second <p> element, etc.
-alert(paragraphs[0].nodeName);
+// Query Selector
+let firstPTag = document.querySelector("p"); // get element by tag name
+let firstPTagByID = document.querySelector("#first"); // get element by ID
+let firstPTagByClass = document.querySelector(".special"); // get element by class name
 
-// Get Element By ID
-const table = document.getElementById("table");
-const tableAttrs = table.attributes; // Node/Element interface
-for (let i = 0; i < tableAttrs.length; i++) {
-  // HTMLTableElement interface: border attribute
-  if(tableAttrs[i].nodeName.toLowerCase() == "border")
-    table.border = "1";
-}
-// HTMLTableElement interface: summary attribute
-table.summary = "note: increased border";
+// Query Selector All
+let specialClassElements = document.querySelectorAll(".special"); // get ALL elements with class name
+specialClassElements.forEach(el => console.log(`Special Class Query All Selected: ${el.innerText}`)); // iterate through array of elements
 ```
 The short example above, like nearly all of the examples in this reference, is JavaScript. That is to say, it's written in JavaScript, but it uses the DOM to access the document and its elements. The DOM is not a programming language, but without it, the JavaScript language wouldn't have any model or notion of web pages, HTML documents, XML documents, and their component parts (e.g. elements). Every element in a document—the document as a whole, the head, tables within the document, table headers, text within the table cells—is part of the document object model for that document, so they can all be accessed and manipulated using the DOM and a scripting language like JavaScript.
 
@@ -52,9 +44,11 @@ window.scrollTo()
 
 [https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 
-## Classwork Link : https://classroom.github.com/a/qGGXKOpk
+## Classwork Link : 
+https://classroom.github.com/a/qGGXKOpk
 
-## Classwork Answers : https://gist.github.com/autumn-ragland/b78d34ca6c4f42d40a7e049eb5f8640d#file-cw-js
+## Classwork Answers : 
+https://gist.github.com/autumn-ragland/b78d34ca6c4f42d40a7e049eb5f8640d#file-cw-js
 
 ## Classwork Review Video :
 [https://youtu.be/aEcjza7Jt3Q](https://youtu.be/aEcjza7Jt3Q)
