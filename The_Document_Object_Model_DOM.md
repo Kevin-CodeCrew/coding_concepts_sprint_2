@@ -13,3 +13,7 @@ The HTML you write is parsed by the browser and turned into the DOM. But your HT
 Every object in the DOM generates events. Events are generated anytime you interact with an object in any way. This includes events such as mouse clicks, key presses, and the like. We can capture and handle the various events using JavaScript to provide a interactive experience.
 
 We will cover JavaScript and event handlers in detail in another module.
+
+#### [Learn More](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+#### [DOM Selectors](./dom_selectors)
+#### [DOM Events](./dom_events)

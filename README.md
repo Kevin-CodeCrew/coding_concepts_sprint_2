@@ -1,6 +1,8 @@
 # Coding Concepts Sprint 2 
 * [HTML Introduction](./Introduction_to_HTML.md)
 * [The Document Object Model (DOM)](./The_Document_Object_Model_DOM.md)
+    * [DOM Selectors](./dom_selectors.md)
+    * [DOM Events](./dom_events.md)
 * [Layout with CSS Grid](./Introduction_to_CSS_grid.md)
 * [HTML Forms](./introduction_to_HTML_forms.md)
 * [CSS and Responsiveness](./Introduction_to_CSS.md)
@@ -13,3 +15,4 @@
   * [Functions](./javascript_functions.md)
   * [Objects](./javascript_objects.md)
   * [Classes](./classes.md)
+
