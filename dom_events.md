@@ -125,6 +125,6 @@ The DOMTokenList itself is read-only, although you can modify it using the add()
 #### CW Answers : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-cw-js
 
 
-## Classwork Review Video :
+## Classwork Review Video : https://youtu.be/hi1VZwHbtOY
 
 ### [BACK TO TOP](#Events)
