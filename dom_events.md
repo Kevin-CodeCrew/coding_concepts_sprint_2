@@ -113,13 +113,13 @@ The DOMTokenList itself is read-only, although you can modify it using the add()
 #### Extra Practice Answers : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-practice-js
 
 
-#### IC Assignment Link :  
+#### IC Assignment Link : https://classroom.github.com/a/iPhWBHCe
 
 
 #### IC Answers : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-ic-js
 
 
-#### CW Assignment Link :
+#### CW Assignment Link : https://classroom.github.com/a/oPMJLGwe
 
 
 #### CW Answers : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-cw-js
