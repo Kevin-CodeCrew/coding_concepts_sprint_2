@@ -36,13 +36,13 @@ window.onload
 window.scrollTo()
 ```
 
-## Refrence Links :
+## Reference Links :
 
-[https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+[MDN DOM Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
-[https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByName](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByName)
+[MDN getElementsByName()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByName)
 
-[https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
+[MDN getElementById()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 
 ## Classwork Link : 
 https://classroom.github.com/a/qGGXKOpk
@@ -52,5 +52,11 @@ https://gist.github.com/autumn-ragland/b78d34ca6c4f42d40a7e049eb5f8640d#file-cw-
 
 ## Classwork Review Video :
 [https://youtu.be/aEcjza7Jt3Q](https://youtu.be/aEcjza7Jt3Q)
+
+## Practice:
+[JavaScript Selectors 1](https://github.com/cs-fullstack-master/Frontend_Set_Selectors1a)
+[JavaScript Selectors 2](https://github.com/cs-fullstack-master/Frontend_Set_Selectors1b)
+[JavaScript Selectors 3](https://github.com/cs-fullstack-master/Frontend_Set_Selectors2)
+
  
 ### [BACK TO TOP](#Selectors)
