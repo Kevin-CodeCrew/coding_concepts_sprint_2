@@ -51,9 +51,14 @@ the Array object being traversed
 
 The filter() method creates a new array with all elements that pass the test implemented by the provided function.
 ## Reference Links :
+[Gist from Class](https://gist.github.com/Kevin-CodeCrew/9e5e3ee0d93e1c1740f9d99b3fb49b79)
 
 [Eloquent JavaScript - High Order Functions](https://eloquentjavascript.net/05_higher_order.html)
 
 [Dev.to - Higher Order Functions](https://dev.to/damcosset/higher-order-functions-in-javascript-4j8b)
 
 [YouTube Video - Higher Order Functions](https://www.youtube.com/watch?v=rRgD1yVwIvE)
+
+[More Higher Order Functions](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
+
+
