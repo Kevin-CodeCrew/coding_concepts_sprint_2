@@ -1,4 +1,5 @@
 # Coding Concepts Sprint 2 
+* [Pre Work](./pre_work.md)
 * [HTML Introduction](./Introduction_to_HTML.md)
 * [The Document Object Model (DOM)](./The_Document_Object_Model_DOM.md)
     * [DOM Selectors](./dom_selectors.md)
