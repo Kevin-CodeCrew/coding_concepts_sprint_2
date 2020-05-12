@@ -76,6 +76,4 @@ An attribute should have:
 #### getDocumentById
 #### Inner Text
 
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
 ##### [BACK TO TOP](#PreWork)
