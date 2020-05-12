@@ -60,7 +60,7 @@ An attribute should have:
 
 [Class](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#Class_selectors) attributes are used to applying styling to multiple elements by name while [id](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#ID_Selectors) attributes are used to applying styling to one element by name. We will look more into styling in the CSS section below.
 
-[Event Listeners](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers#HTML_onevent_attributes)
+HTML elements have attributes named [onevent](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers#HTML_onevent_attributes) which can be used to register a handler for an event directly within the HTML code. When the element is built from the HTML, the value of its onevent attributes are copied to the DOM object that represents the element, so that accessing the attributes' values using JavaScript will get the value set in the HTML. We will look more into handling dom events in the JavaScript section below.
 
 ### CSS
 #### Selectors
