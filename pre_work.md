@@ -15,9 +15,11 @@ Comments are used through the assignment to either give directions or clarify wh
 ```JavaScript
 // this is a comment in JS and it will not execute
 ```
-
+[Section Resource](https://www.hongkiat.com/blog/source-code-comment-styling-tips/)
 ### HTML
 HTML is not a programming language; it is a markup language that defines the structure of your content. HTML consists of a series of [elements](https://developer.mozilla.org/en-US/docs/Glossary/element), which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing [tags](https://developer.mozilla.org/en-US/docs/Glossary/tag) can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on
+
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 #### Syntax
 
 <img src="./img/htmlSyntax.png" alt="html syntax example" width="300"/>
@@ -27,7 +29,7 @@ HTML is not a programming language; it is a markup language that defines the str
 3. The content: This is the content of the element, which in this case, is just text.
 4. The element: The opening tag, the closing tag and the content together comprise the element.
 
-There are several different HTML elements but primary ones you will be using for the pre-work challenge are [headings](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics#Headings) and [paragraphs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics#Paragraphs).Heading elements and paragraph element are used to establish hierarchy. Heading tags allow you to style content in a set font size and weight and paragraph tags allow you to style content with a default top and bottom margin (or space above and below the content)
+There are several different HTML elements but primary ones you will be using for the pre-work challenge are [headings](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics#Headings) and [paragraphs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics#Paragraphs). Heading elements and paragraph element are used to establish hierarchy. Heading tags allow you to style content in a set font size and weight and paragraph tags allow you to style content with a default top and bottom margin (or space above and below the content)
 
 So this code snippet...
 ```HTML
@@ -36,17 +38,20 @@ So this code snippet...
 <!-- subtitle of the page at a smaller heading -->
 <h3>Page Subtitle</h3>
 <!-- filler text paragraph element -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>Those options are already baked in with this model shoot me an email clear blue water but we need distributors to evangelize the new line to local markets, but fire up your browser. Strategic high-level 30,000 ft view. Drill down re-inventing the wheel at the end of the day but curate imaginer, or to be inspired is to become creative.</p>
 ```
 ...displays like this on the page
 <hr>
 <h1>Page Title</h1>
 <h3>Page Subtitle</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>Those options are already baked in with this model shoot me an email clear blue water but we need distributors to evangelize the new line to local markets, but fire up your browser. Strategic high-level 30,000 ft view. Drill down re-inventing the wheel at the end of the day but curate imaginer, or to be inspired is to become creative.</p>
 <hr>
 
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_element)
 #### Grouping Elements
 In addition to defining individual parts of your page (such as "a paragraph"), HTML also boasts a number of [block level elements](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Block_versus_inline_elements) used to define areas of your website (such as "the header" or "the main content"). Sometimes you'll come across a situation where you can't find an ideal semantic element to group some items together or wrap some content. Sometimes you might want to just group a set of elements together to affect them all as a single entity with some CSS or JavaScript. For cases like these, HTML provides the `<div>` and `<span>` elements. You should use these preferably with a suitable class attribute, to provide some kind of label for them so they can be easily targeted. You'll notice the `<div>` tag is used in the pre-work challenge primarily to provide styling to nested `<p>` elements. We will look more into styling in the CSS section below. 
+
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Nesting_elements)
 #### Attributes
 <img src="./img/attributes.png" alt="html syntax example" width="300"/>
 
@@ -60,8 +65,9 @@ An attribute should have:
 
 [Class](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#Class_selectors) attributes are used to applying styling to multiple elements by name while [id](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#ID_Selectors) attributes are used to applying styling to one element by name. We will look more into styling in the CSS section below.
 
-HTML elements have attributes named [onevent](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers#HTML_onevent_attributes) which can be used to register a handler for an event directly within the HTML code. When the element is built from the HTML, the value of its onevent attributes are copied to the DOM object that represents the element, so that accessing the attributes' values using JavaScript will get the value set in the HTML. We will look more into handling dom events in the JavaScript section below.
+HTML elements have attributes named [onEvent](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers#HTML_onevent_attributes) which can be used to register a handler for an event directly within the HTML code. When the element is built from the HTML, the value of its onEvent attributes are copied to the DOM object that represents the element, so that accessing the attributes' values using JavaScript will get the value set in the HTML. We will look more into handling dom events in the JavaScript section below.
 
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Attributes)
 ### CSS
 #### Selectors
 #### Font Color
