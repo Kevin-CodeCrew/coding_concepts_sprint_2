@@ -26,11 +26,9 @@ https://codepen.io/hello/
 #### Inner Text
 
 Test Embedded Code Pen
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="autumn-ragland" data-slug-hash="wvKmYBz" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="HTML Example">
-  <span>See the Pen <a href="https://codepen.io/autumn-ragland/pen/wvKmYBz">
-  HTML Example</a> by Autumn Ragland (<a href="https://codepen.io/autumn-ragland">@autumn-ragland</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+<iframe height="265" style="width: 100%;" scrolling="no" title="HTML Example" src="https://codepen.io/autumn-ragland/embed/wvKmYBz?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/autumn-ragland/pen/wvKmYBz'>HTML Example</a> by Autumn Ragland
+  (<a href='https://codepen.io/autumn-ragland'>@autumn-ragland</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
  
 ##### [BACK TO TOP](#PreWork)
