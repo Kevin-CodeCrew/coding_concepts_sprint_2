@@ -17,7 +17,7 @@ Comments are used through the assignment to either give directions or clarify wh
 ```
 [Section Resource](https://www.hongkiat.com/blog/source-code-comment-styling-tips/)
 ### HTML
-HTML is not a programming language; it is a markup language that defines the structure of your content. HTML consists of a series of [elements](https://developer.mozilla.org/en-US/docs/Glossary/element), which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing [tags](https://developer.mozilla.org/en-US/docs/Glossary/tag) can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on
+HTML is a markup language that defines the structure of your content. HTML consists of a series of [elements](https://developer.mozilla.org/en-US/docs/Glossary/element), which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing [tags](https://developer.mozilla.org/en-US/docs/Glossary/tag) can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on
 
 [Section Resource](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 #### Syntax
@@ -69,11 +69,69 @@ HTML elements have attributes named [onEvent](https://developer.mozilla.org/en-U
 
 [Section Resource](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Attributes)
 ### CSS
+Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of web design, alongside HTML and JavaScript. CSS can be used for very basic document text styling — for example changing the color and size of headings and links. It can be used to create layout — for example turning a single column of text into a layout with a main content area and a sidebar for related information. It can even be used for effects such as animation.
 #### Selectors
-#### Font Color
-#### Background Color
-#### Margin and Padding
+<img src="./img/css_declaration.png" alt="html syntax example" width="300"/>
 
+CSS is a rule-based language — you define rules specifying groups of styles that should be applied to particular elements or groups of elements on your web page. For example "I want the main heading on my page to be shown as large red text."
+
+The following code shows a very simple CSS rule that would achieve the styling described above:
+```CSS
+h1 {
+    color : red;
+    font-size : 5em;
+}
+```
+Elements on the page can be referenced by tag name (such as p tag, h1 tag, or div tag), class name, or ID. Each of these selectors have specific syntax
+
+```CSS
+/* tag selector */
+h3 {
+    font-family	 : Arial, Helvetica, sans-serif;
+}
+```
+```CSS
+/* class selector */
+.redFont {
+    color : red;
+    font-style : italic;
+}
+```
+```CSS
+/* id selector */
+#subtitle {
+    font-family : "Times New Roman", Times, serif;
+    font-style : italic;
+}
+```
+#### Font Color
+The font color attribute of an element on the page is referenced via the `color` property in CSS.
+```CSS
+p {
+    color : blue;
+}
+```
+The code snippet above changes the font color of all p tags to blue
+#### Background Color
+The background color attribute of an element on the page is referenced via the `background-color` property in CSS.
+```CSS
+body {
+    background-color : pink;
+}
+```
+The code snippet above changes the background color of the body to pink
+#### Margin and Padding
+<img src="./img/margin_padding.png" alt="box model example" width="250"/>
+
+The margin attribute of an element on the page is referenced via the `margin` property in CSS.
+The padding attribute of an element on the page is referenced via the `padding` property in CSS.
+```CSS
+.main-content {
+    margin : 10%;
+    padding : 10%;
+}
+```
+The code snippet above adds space to the top, bottom, left and right of an element on the page with the class attribute `main-content`
 ### JavaScript
 #### Functions
 #### Event Handlers
