@@ -25,7 +25,7 @@ HTML is a markup language that defines the structure of your content. HTML consi
 <img src="./img/htmlSyntax.png" alt="html syntax example" width="300"/>
 
 1. The opening tag: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect — in this case where the paragraph begins.
-2. The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends — in this case where the paragraph ends. Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.
+2. The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends — in this case where the paragraph ends. 
 3. The content: This is the content of the element, which in this case, is just text.
 4. The element: The opening tag, the closing tag and the content together comprise the element.
 
@@ -40,7 +40,8 @@ So this code snippet...
 <!-- filler text paragraph element -->
 <p>Those options are already baked in with this model shoot me an email clear blue water but we need distributors to evangelize the new line to local markets, but fire up your browser. Strategic high-level 30,000 ft view. Drill down re-inventing the wheel at the end of the day but curate imaginer, or to be inspired is to become creative.</p>
 ```
-...displays like this on the page
+...displays like this on the page. Notice that the font size is different for each of our elements and the comments don't render in the browser. 
+
 <hr>
 <h1>Page Title</h1>
 <h3>Page Subtitle</h3>
@@ -53,7 +54,7 @@ In addition to defining individual parts of your page (such as "a paragraph"), H
 
 [Section Resource](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Nesting_elements)
 #### Attributes
-<img src="./img/attributes.png" alt="html syntax example" width="300"/>
+<img src="./img/attributes.png" alt="html syntax example" width="600"/>
 
 Attributes contain extra information about the element that you don't want to appear in the actual content. In this case, the class attribute allows you to give the element an identifying name, that can be used later to target the element with style information and other things.
 
@@ -143,7 +144,7 @@ The code snippet above adds space to the top, bottom, left and right of an eleme
 
 [Section Resource](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#What_is_the_CSS_box_model)
 ### JavaScript
-JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved.
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at you can bet that JavaScript is probably involved.
 
 [Section Resource](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 #### Functions
@@ -172,7 +173,7 @@ function helloWorld() {
 A variable is a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence. But one special thing about variables is that their contained values can change.
 Syntax Example
 ```JavaScript
-let variableName = variableValue
+let variableName = `variableValue`
 ```
 Variables Example
 ```JavaScript
@@ -217,6 +218,10 @@ function clickedMessage(){
     // when function is called print message to the console
     console.log("The button was clicked");
 }
+```
+Message in console
+```
+The button was clicked
 ```
 
 [Section Resource](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions#Built-in_browser_functions)
