@@ -145,6 +145,9 @@ The code snippet above adds space to the top, bottom, left and right of an eleme
 ### JavaScript
 JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved.
 
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+### Variables
+
 [Section Resource](#)
 #### Functions
 A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
@@ -167,7 +170,7 @@ function helloWorld() {
 }
 ```
 
-[Section Resource](#)
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions#Invoking_functions)
 #### Event Handlers
 HTML events are "things" that happen to HTML elements.
 When JavaScript is used in HTML pages, JavaScript can "handle" on these events.
@@ -190,7 +193,7 @@ function clickedMessage(){
 }
 ```
 
-[Section Resource](#)
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 #### Console Log
 The console.log() method writes a message to the console.
 The console is useful for testing purposes.
@@ -204,7 +207,7 @@ function clickedMessage(){
 }
 ```
 
-[Section Resource](#)
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions#Built-in_browser_functions)
 #### getElementById and Inner Text
 The Document method `getElementById()` returns an Element object representing the element whose `id` property matches the specified string. Since element IDs are *required to be unique* if specified, they're a useful way to get access to a specific element quickly.
 
@@ -232,5 +235,7 @@ function changeText() {
 }
 ```
 
-[Section Resource](#)
+[Section Resource 1](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
+
+[Section Resource 2](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/innerText)
 ##### [BACK TO TOP](#PreWork)
