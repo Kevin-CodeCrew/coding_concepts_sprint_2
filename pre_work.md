@@ -187,7 +187,31 @@ function clickedMessage(){
     console.log("The button was clicked");
 }
 ```
-#### getDocumentById
-#### Inner Text
+#### getElementById and Inner Text
+The Document method `getElementById()` returns an Element object representing the element whose `id` property matches the specified string. Since element IDs are *required to be unique* if specified, they're a useful way to get access to a specific element quickly.
+
+The `innerText` property of the HTMLElement interface represents the "rendered" text content of a node and its descendants. As a getter, it approximates the text the user would get if they highlighted the contents of the element with the cursor and then copied it to the clipboard.
+
+Syntax Example 
+```JavaScript
+let element = document.getElementById(id);
+element.innerText = `string`
+```
+Get Element By Id and Inner Text Example
+```HTML
+<!-- p tag with a unique ID that displays text -->
+<p id="spaceText">Space, the final frontier.</p>
+<!-- button with event listener -->
+<button onClick="clickedMessage()">Change Text</button>
+```
+```JavaScript
+// event handler referenced in HTML to update the text of a selected element
+function changeText() {
+    // element selected from DOM by ID
+    let spaceTextElement = document.getElementById('spaceText');
+    // update the text of the element   
+    spaceTextElement.innerText = "These are the voyages of the Starship Enterprise.";
+}
+```
 
 ##### [BACK TO TOP](#PreWork)
