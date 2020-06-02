@@ -70,6 +70,8 @@ HTML elements have attributes named [onEvent](https://developer.mozilla.org/en-U
 [Section Resource](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Attributes)
 ### CSS
 Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of web design, alongside HTML and JavaScript. CSS can be used for very basic document text styling — for example changing the color and size of headings and links. It can be used to create layout — for example turning a single column of text into a layout with a main content area and a sidebar for related information. It can even be used for effects such as animation.
+
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 #### Selectors
 <img src="./img/css_declaration.png" alt="html syntax example" width="300"/>
 
@@ -104,6 +106,8 @@ h3 {
     font-style : italic;
 }
 ```
+
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors#Types_of_selectors)
 #### Font Color
 The font color attribute of an element on the page is referenced via the `color` property in CSS.
 ```CSS
@@ -112,6 +116,8 @@ p {
 }
 ```
 The code snippet above changes the font color of all p tags to blue
+
+[Section Resource](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
 #### Background Color
 The background color attribute of an element on the page is referenced via the `background-color` property in CSS.
 ```CSS
@@ -120,6 +126,8 @@ body {
 }
 ```
 The code snippet above changes the background color of the body to pink
+
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)
 #### Margin and Padding
 <img src="./img/margin_padding.png" alt="box model example" width="250"/>
 
@@ -132,8 +140,12 @@ The padding attribute of an element on the page is referenced via the `padding` 
 }
 ```
 The code snippet above adds space to the top, bottom, left and right of an element on the page with the class attribute `main-content`
+
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#What_is_the_CSS_box_model)
 ### JavaScript
 JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved.
+
+[Section Resource](#)
 #### Functions
 A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
@@ -154,6 +166,8 @@ function helloWorld() {
   alert("Hello World");
 }
 ```
+
+[Section Resource](#)
 #### Event Handlers
 HTML events are "things" that happen to HTML elements.
 When JavaScript is used in HTML pages, JavaScript can "handle" on these events.
@@ -175,6 +189,8 @@ function clickedMessage(){
     alert("The button was clicked");
 }
 ```
+
+[Section Resource](#)
 #### Console Log
 The console.log() method writes a message to the console.
 The console is useful for testing purposes.
@@ -187,6 +203,8 @@ function clickedMessage(){
     console.log("The button was clicked");
 }
 ```
+
+[Section Resource](#)
 #### getElementById and Inner Text
 The Document method `getElementById()` returns an Element object representing the element whose `id` property matches the specified string. Since element IDs are *required to be unique* if specified, they're a useful way to get access to a specific element quickly.
 
@@ -214,4 +232,5 @@ function changeText() {
 }
 ```
 
+[Section Resource](#)
 ##### [BACK TO TOP](#PreWork)
