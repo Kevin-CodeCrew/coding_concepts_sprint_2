@@ -133,10 +133,60 @@ The padding attribute of an element on the page is referenced via the `padding` 
 ```
 The code snippet above adds space to the top, bottom, left and right of an element on the page with the class attribute `main-content`
 ### JavaScript
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved.
 #### Functions
+A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
+Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
+The parentheses may include parameter names separated by commas:
+(parameter1, parameter2, ...)
+The code to be executed, by the function, is placed inside curly brackets: {}
+
+Syntax Example
+```JavaScript
+function name(parameter1, parameter2, parameter3) {
+  // code to be executed
+}
+```
+Function Example
+```JavaScript
+function helloWorld() {
+    // alert message in browser when called
+  alert("Hello World");
+}
+```
 #### Event Handlers
-#### Alert
+HTML events are "things" that happen to HTML elements.
+When JavaScript is used in HTML pages, JavaScript can "handle" on these events.
+An HTML event can be something the browser does, or something a user does.
+
+Syntax Example
+```HTML
+<element event="Some JavaScript"></element>
+```
+Event Handler Example
+```HTML
+<!-- html button with event that triggers JS function when clicked -->
+<button onClick="clickedMessage()"></button>
+```
+```JavaScript
+// function called by event in html
+function clickedMessage(){
+    // when function is called display message in browser
+    alert("The button was clicked");
+}
+```
 #### Console Log
+The console.log() method writes a message to the console.
+The console is useful for testing purposes.
+
+You can access the code pen console by clicking on the `console` button in the far left corner 
+```JavaScript
+// function called by event in html
+function clickedMessage(){
+    // when function is called print message to the console
+    console.log("The button was clicked");
+}
+```
 #### getDocumentById
 #### Inner Text
 
