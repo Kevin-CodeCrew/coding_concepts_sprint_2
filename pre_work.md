@@ -146,9 +146,6 @@ The code snippet above adds space to the top, bottom, left and right of an eleme
 JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved.
 
 [Section Resource](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-### Variables
-
-[Section Resource](#)
 #### Functions
 A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
@@ -171,6 +168,21 @@ function helloWorld() {
 ```
 
 [Section Resource](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions#Invoking_functions)
+### Variables
+A variable is a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence. But one special thing about variables is that their contained values can change.
+Syntax Example
+```JavaScript
+let variableName = variableValue
+```
+Variables Example
+```JavaScript
+function alertMessage(){
+    let message = "Web Development is Fun"
+    alert(message);
+}
+```
+
+[Section Resource](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
 #### Event Handlers
 HTML events are "things" that happen to HTML elements.
 When JavaScript is used in HTML pages, JavaScript can "handle" on these events.
