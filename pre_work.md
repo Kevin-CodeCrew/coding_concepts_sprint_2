@@ -4,6 +4,9 @@
 #### CodePen Tutorial 
 https://codepen.io/hello/
 
+#### CodePen Simple HTML/CSS/JS Example 
+https://codepen.io/autumn-ragland/pen/gOPbLYR
+
 ### Comments
 Comments are used through the assignment to either give directions or clarify what a line of code does or represents. Typically in web development comments are used to let other developers (or your future self) know how/why something works. Commenting your code (and reading others comments) is an important skill for junior developers. Comments look different in different languages. Anytime you see a comment in a file remember that it will not execute (or have any affect on the code), it's just a note to the developer. 
 ```HTML
