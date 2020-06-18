@@ -95,12 +95,6 @@ for (let i = 0; i < 10; i++) {
 }
 ```
 
-## Practice
-- [For Loops](https://github.com/cs-fullstack-master/JavaScript-forLoops_ic)
-- [While Loops 1](https://github.com/cs-fullstack-master/JavaScript-whileloops-ic)
-- [While Loops 2](https://github.com/cs-fullstack-master/javaScript-week1-review)
-
-
 ## Additional Information
 - [Eloquent JavaScript - Do Loops](https://eloquentjavascript.net/02_program_structure.html#p_FIHE6k56BA)
 - [Eloquent JavaScript - For Loops](https://eloquentjavascript.net/02_program_structure.html#h_oupMC+5FKN)
