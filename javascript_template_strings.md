@@ -49,10 +49,6 @@ With template literals, you type a template string that more natually resembles 
 
 > For now, it is OK to assume that your placeholders will match the names of variables in your code, but get used to hearing the term `expression` as it comes up frequently in JavaScript and other programming languages. It simply means passing items that can be evaluated/executed by the JavaScript runtime. For example a simple variable expression, just returns the current value of the variable when evaluated
 
-## Practice:
-[Template Strings Practice 1](https://github.com/cs-fullstack-master/javascript-template-strings-ic2)
-
-
 ## Additional Information
 - [MDN - Template literals (Template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 - [ES6 In Depth: Template strings](https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2/)
