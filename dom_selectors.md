@@ -35,7 +35,6 @@ window.content
 window.onload
 window.scrollTo()
 ```
-
 ## Reference Links :
 
 [MDN DOM Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
@@ -43,20 +42,5 @@ window.scrollTo()
 [MDN getElementsByName()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByName)
 
 [MDN getElementById()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
-
-## Classwork Link : 
-https://classroom.github.com/a/qGGXKOpk
-
-## Classwork Answers : 
-https://gist.github.com/autumn-ragland/b78d34ca6c4f42d40a7e049eb5f8640d#file-cw-js
-
-## Classwork Review Video :
-[https://youtu.be/aEcjza7Jt3Q](https://youtu.be/aEcjza7Jt3Q)
-
-## Practice:
-- [JavaScript Selectors 1](https://github.com/cs-fullstack-master/Frontend_Set_Selectors1a)
-- [JavaScript Selectors 2](https://github.com/cs-fullstack-master/Frontend_Set_Selectors1b)
-- [JavaScript Selectors 3](https://github.com/cs-fullstack-master/Frontend_Set_Selectors2)
-
  
 ### [BACK TO TOP](#Selectors)
