@@ -18,8 +18,3 @@ MDN Detailed Array Information:
 [http://eloquentjavascript.net/04_data.html#h_HjL/otjEJn](http://eloquentjavascript.net/04_data.html#h_HjL/otjEJn)
 
 <strong>Kevin's suggested Array video:</strong> [https://youtu.be/n6pCS-w1M3o](https://youtu.be/n6pCS-w1M3o)
-
-## Practice
-Practice 1:
-
-https://github.com/cs-fullstack-master/JavaScript_Set11b_Array
