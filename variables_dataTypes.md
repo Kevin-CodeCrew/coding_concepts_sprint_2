@@ -11,9 +11,3 @@ Strings: [https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/
 Prompt: [https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)
 
 Alert: [https://developer.mozilla.org/en-US/docs/Web/API/Window/alert](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
-
-#### Lecture
-Lecture Repo: [https://classroom.github.com/a/ZalhDFoZ](https://classroom.github.com/a/ZalhDFoZ)
-
-#### Practice
-Practice 1: [https://classroom.github.com/a/oYAqoh95](https://classroom.github.com/a/oYAqoh95)
