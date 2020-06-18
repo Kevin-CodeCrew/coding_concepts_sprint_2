@@ -186,9 +186,7 @@ An Ordered List:
 1. Push work to your remote repo then verify that it pushed sucessfully in Github
 
 # Additional Practice
-* [Basics 1](https://github.com/cs-fullstack-master/html-basics1-ic)
-* [Basics 2](https://github.com/cs-fullstack-master/html-basics1-cw)
-* [Blocks and Sections](https://github.com/cs-fullstack-master/html-basics1-ic)
+* To be updated
 
 # Additional Information
 * [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
