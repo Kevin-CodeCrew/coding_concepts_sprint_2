@@ -100,31 +100,4 @@ The DOMTokenList itself is read-only, although you can modify it using the add()
 
 [Class List](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
 
-## Assignments 
-
-
-#### Lecture Gist : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-lecture-js
-
-#### Lecture Link : https://classroom.github.com/a/HJcbO8G6
-
-#### Extra Practice : https://classroom.github.com/a/xIeYhxfj
-
-
-#### Extra Practice Answers : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-practice-js
-
-
-#### IC Assignment Link : https://classroom.github.com/a/iPhWBHCe
-
-
-#### IC Answers : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-ic-js
-
-
-#### CW Assignment Link : https://classroom.github.com/a/oPMJLGwe
-
-
-#### CW Answers : https://gist.github.com/autumn-ragland/d36fa1b0e84d31abd1a77449babe6609#file-cw-js
-
-
-## Classwork Review Video : https://youtu.be/hi1VZwHbtOY
-
 ### [BACK TO TOP](#Events)
