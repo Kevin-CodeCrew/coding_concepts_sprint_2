@@ -15,5 +15,5 @@ Every object in the DOM generates events. Events are generated anytime you inter
 We will cover JavaScript and event handlers in detail in another module.
 
 #### [Learn More](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
-#### [DOM Selectors](./dom_selectors)
-#### [DOM Events](./dom_events)
+#### [DOM Selectors](./dom_selectors.md)
+#### [DOM Events](./dom_events.md)
