@@ -14,3 +14,8 @@
 #### 20 07 09 CSS Intro
 - [Lecture Assignment Link](https://classroom.github.com/a/egyhhaVe)
 - [Lecture Answer Repo](https://github.com/cs-fullstack-2020-fall/2020709-css-intro-lecture-autumn-ragland)
+- [IC Assignment Link](https://classroom.github.com/a/iWyNWzw4)
+- [IC Answer Repo](https://github.com/cs-fullstack-2020-fall/20200709-css-intro-ic-Kevin-CodeCrew)
+- [CW Assignment Link](https://classroom.github.com/a/q9TnZs1Z)
+- [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/20200709-css-intro-cw-autumn-ragland)
+- [Solution Video Walk-through](https://youtu.be/-R1zVwk4YDA)
