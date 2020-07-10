@@ -16,6 +16,16 @@
 - [Lecture Answer Repo](https://github.com/cs-fullstack-2020-fall/2020709-css-intro-lecture-autumn-ragland)
 - [IC Assignment Link](https://classroom.github.com/a/iWyNWzw4)
 - [IC Answer Repo](https://github.com/cs-fullstack-2020-fall/20200709-css-intro-ic-Kevin-CodeCrew)
-- [CW Assignment Link](https://classroom.github.com/a/q9TnZs1Z)
+- [CW Assignment Link](https://classroom.github.com/a/7l7smdj4)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/20200709-css-intro-cw-autumn-ragland)
 - [Solution Video Walk-through](https://youtu.be/-R1zVwk4YDA)
+
+#### 20 07 10 CSS Positioning
+- [Lecture Assignment Link](https://classroom.github.com/a/_su5k_HE)
+- [Lecture Answer Repo](https://github.com/cs-fullstack-2020-fall/200710-css-positioning-lecture-autumn-rag)
+- [IC Assignment Link](https://classroom.github.com/a/DvXmJ_22)
+- [IC Answer Repo](https://github.com/cs-fullstack-2020-fall/200710-css-positioning-ic-autumn-ragland)
+- [CW Assignment Link](https://classroom.github.com/a/q9TnZs1Z)
+- [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/200710-css-positioning-cw-autumn-ragland)
+- [Concept Gist](https://gist.github.com/autumn-ragland/3f1c72f223ab585e6debbb1693d40b6f)
+- [Solution Video Walk-through](https://youtu.be/kDEtie-gS_c)
