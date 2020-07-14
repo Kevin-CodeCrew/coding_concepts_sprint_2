@@ -69,4 +69,8 @@ There are the many different input types you can use in HTML:
 ```
 
 ---------------
+
+### Resource 
+[MDN Input Types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+
 [BACK TO TOP](#introduction-to-html-forms)
