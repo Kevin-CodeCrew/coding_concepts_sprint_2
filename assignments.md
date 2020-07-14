@@ -50,4 +50,4 @@
 - [CW Assignment Link](https://classroom.github.com/a/-RR7_ngy)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/200714-html-forms-cw-autumn-ragland)
 - [Conept Gist](https://gist.github.com/autumn-ragland/ffa25e3afef55f2c1c25b8ab69cb305d)
-- [Solution Walkthrough Video}(https://youtu.be/bHIeZWd_-rs)
+- [Solution Walkthrough Video](https://youtu.be/bHIeZWd_-rs)
