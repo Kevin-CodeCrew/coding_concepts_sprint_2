@@ -41,3 +41,13 @@
 - [CW Assignment Link](https://classroom.github.com/a/ARXsesEb)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/css-grid-cw-autumn-ragland)
 - [Solution Video Walk-through](https://youtu.be/WN8qinL7_Sk)
+
+#### 20 04 14 HTML Forms
+- [Lecture Assignment Link](https://classroom.github.com/a/HA2YTRyl)
+- [Lecture Answer Repo](https://github.com/cs-fullstack-2020-fall/200714-html-forms-lecture-autumn-ragland)
+- [IC Assignment Link](https://classroom.github.com/a/uwi_Ewr_)
+- [IC Answer Repo](https://github.com/cs-fullstack-2020-fall/200714-html-forms-ic-autumn-ragland)
+- [CW Assignment Link](https://classroom.github.com/a/-RR7_ngy)
+- [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/200714-html-forms-cw-autumn-ragland)
+- [Conept Gist](https://gist.github.com/autumn-ragland/ffa25e3afef55f2c1c25b8ab69cb305d)
+- [Solution Walkthrough Video}(https://youtu.be/bHIeZWd_-rs)
