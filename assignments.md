@@ -54,9 +54,7 @@
 
 #### 20 07 15 JS Intro
 - [Lecture Assignment Link](https://classroom.github.com/a/rv1fCtZ1)
-- [Lecture Answer Repo](#)
 - [IC Assignment Link](https://classroom.github.com/a/MZs6QdUy)
-- [IC Answer Repo](#)
 - [CW Assignment Link](https://classroom.github.com/a/HxucnYCw)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/javascript-intro-autumn-ragland)
 - [Solution Walkthrough Video](#)
