@@ -57,4 +57,4 @@
 - [IC Assignment Link](https://classroom.github.com/a/MZs6QdUy)
 - [CW Assignment Link](https://classroom.github.com/a/HxucnYCw)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/javascript-intro-autumn-ragland)
-- [Solution Walkthrough Video](#)
+- [Solution Walkthrough Video](https://youtu.be/x7oyVUUQzd4)
