@@ -67,4 +67,4 @@
 - [CW Assignment Link](https://classroom.github.com/a/zSzbu7zI)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/200716-js-conditionals-cw-autumn-ragland)
 - [Concept Gist](https://gist.github.com/autumn-ragland/6b98063f91b5989d0f893eebd3959fd8)
-- [Solution Walkthrough Video](#)
+- [Solution Walkthrough Video](https://youtu.be/7bDK3BbZWkU)
