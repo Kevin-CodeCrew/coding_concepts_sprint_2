@@ -58,3 +58,7 @@
 - [CW Assignment Link](https://classroom.github.com/a/HxucnYCw)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/javascript-intro-autumn-ragland)
 - [Solution Walkthrough Video](https://youtu.be/x7oyVUUQzd4)
+
+#### 20 07 16 JS Conditionals
+- [Lecture Assignment Link](https://classroom.github.com/a/HPaFaNaI)
+- [Lecture Answer Repo](https://github.com/cs-fullstack-2020-fall/200716-js-conditionals-lecture-autumn-ragland)
