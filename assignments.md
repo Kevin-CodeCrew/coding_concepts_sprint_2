@@ -71,4 +71,14 @@
 - [Concept Gist](https://gist.github.com/autumn-ragland/6b98063f91b5989d0f893eebd3959fd8)
 - [Solution Walkthrough Video](https://youtu.be/gD-0GuvPhrk)
 
+#### 20 07 20 JS Loops
+- [Lecture Assignment Link](https://classroom.github.com/a/iaEKjyI3)
+- [Lecture Answer Repo](https://github.com/cs-fullstack-2020-fall/200720-loops-lecture-autumn-ragland)
+- [IC Assignment Link](https://classroom.github.com/a/VRRW5NRH)
+- [IC Answer Repo](https://github.com/cs-fullstack-2020-fall/javascript-loops-ic-autumn-ragland)
+- [CW Assignment Link](https://classroom.github.com/a/1ZSFaDsm)
+- [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/javascript-loops-cw-autumn-ragland)
+- [Concept Gist](https://gist.github.com/autumn-ragland/2b5fbdb59dcfd135250009fd12446a37)
+- [Solution Walkthrough Video](https://youtu.be/wuOuSEr9q6Q)
+
 ##### Bottom
