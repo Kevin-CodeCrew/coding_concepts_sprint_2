@@ -85,8 +85,8 @@
 #### 20 07 21 JS Functions
 - [Lecture Assignment Link](https://classroom.github.com/a/E_IQ7wf2)
 - [IC Assignment Link](https://classroom.github.com/a/-FEQsb6B)
-- [CW Assignment Link](#)
+- [CW Assignment Link](https://classroom.github.com/a/PutcX-Nb)
 - [Solution Gist](https://gist.github.com/autumn-ragland/78086c0e95557fdc7fd0572c7c4c664b)
-- [Soltuion Walkthrough Video](#)
+- [Soltuion Walkthrough Video](https://youtu.be/sjlLvu2J_x4)
 
 ##### Bottom
