@@ -80,7 +80,7 @@
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/javascript-loops-cw-autumn-ragland)
 - [Soltuions Gist](https://gist.github.com/autumn-ragland/2b5fbdb59dcfd135250009fd12446a37)
 - [Solution Walkthrough Video](https://youtu.be/wuOuSEr9q6Q)
-- [Extra Practice[(https://classroom.github.com/a/D812iVEp)
+- [Extra Practice](https://classroom.github.com/a/D812iVEp)
 
 #### 20 07 21 JS Functions
 - [Lecture Assignment Link](https://classroom.github.com/a/E_IQ7wf2)
