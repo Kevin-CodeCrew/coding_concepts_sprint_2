@@ -13,7 +13,7 @@
 - [IC Answer Repo](https://github.com/cs-fullstack-2020-fall/200708-html-ic-autumn-ragland)
 - [CW Assignment Link](https://classroom.github.com/a/FOz0HmDN)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/200708-html-cw-autumn-ragland)
-- [Soltuions Gist](https://www.google.com/url?q=https://gist.github.com/autumn-ragland/24d73ddfde09625014be2e05e08d6aab&sa=D&source=calendar&ust=1594645337819000&usg=AOvVaw3sCzM9cy5G3SQ2sq0eWolI)
+- [Solution Gist](https://www.google.com/url?q=https://gist.github.com/autumn-ragland/24d73ddfde09625014be2e05e08d6aab&sa=D&source=calendar&ust=1594645337819000&usg=AOvVaw3sCzM9cy5G3SQ2sq0eWolI)
 - [Solution Video Walk-through](https://youtu.be/6IadVrkDYM4)
 
 #### 20 07 09 CSS Intro
@@ -32,7 +32,7 @@
 - [IC Answer Repo](https://github.com/cs-fullstack-2020-fall/200710-css-positioning-ic-autumn-ragland)
 - [CW Assignment Link](https://classroom.github.com/a/q9TnZs1Z)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/200710-css-positioning-cw-autumn-ragland)
-- [Soltuions Gist](https://gist.github.com/autumn-ragland/3f1c72f223ab585e6debbb1693d40b6f)
+- [Solution Gist](https://gist.github.com/autumn-ragland/3f1c72f223ab585e6debbb1693d40b6f)
 - [Solution Video Walk-through](https://youtu.be/kDEtie-gS_c)
 
 #### 20 07 13 CSS Grid
@@ -51,7 +51,7 @@
 - [IC Answer Repo](https://github.com/cs-fullstack-2020-fall/200714-html-forms-ic-autumn-ragland)
 - [CW Assignment Link](https://classroom.github.com/a/-RR7_ngy)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/200714-html-forms-cw-autumn-ragland)
-- [Soltuions Gist](https://gist.github.com/autumn-ragland/ffa25e3afef55f2c1c25b8ab69cb305d)
+- [Solution Gist](https://gist.github.com/autumn-ragland/ffa25e3afef55f2c1c25b8ab69cb305d)
 - [Solution Walkthrough Video](https://youtu.be/bHIeZWd_-rs)
 
 #### 20 07 15 JS Intro
@@ -68,7 +68,7 @@
 - [IC Answer Repo](https://github.com/cs-fullstack-2020-fall/200716-js-conditionals-ic-autumn-ragland)
 - [CW Assignment Link](https://classroom.github.com/a/zSzbu7zI)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/200716-js-conditionals-cw-autumn-ragland)
-- [Soltuions Gist](https://gist.github.com/autumn-ragland/6b98063f91b5989d0f893eebd3959fd8)
+- [Solution Gist](https://gist.github.com/autumn-ragland/6b98063f91b5989d0f893eebd3959fd8)
 - [Solution Walkthrough Video](https://youtu.be/gD-0GuvPhrk)
 
 #### 20 07 20 JS Loops
@@ -78,7 +78,7 @@
 - [IC Answer Repo](https://github.com/cs-fullstack-2020-fall/javascript-loops-ic-autumn-ragland)
 - [CW Assignment Link](https://classroom.github.com/a/1ZSFaDsm)
 - [CW Answer Repo](https://github.com/cs-fullstack-2020-fall/javascript-loops-cw-autumn-ragland)
-- [Soltuions Gist](https://gist.github.com/autumn-ragland/2b5fbdb59dcfd135250009fd12446a37)
+- [Solution Gist](https://gist.github.com/autumn-ragland/2b5fbdb59dcfd135250009fd12446a37)
 - [Solution Walkthrough Video](https://youtu.be/wuOuSEr9q6Q)
 - [Extra Practice](https://classroom.github.com/a/D812iVEp)
 
@@ -86,7 +86,7 @@
 - [Lecture Assignment Link](https://classroom.github.com/a/E_IQ7wf2)
 - [IC Assignment Link](https://classroom.github.com/a/-FEQsb6B)
 - [CW Assignment Link](#)
-- [Soltuions Gist](#)
+- [Solution Gist](#)
 - [Soltuion Walkthrough Video](#)
 
 ##### Bottom
