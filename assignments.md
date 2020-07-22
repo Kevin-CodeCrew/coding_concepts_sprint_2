@@ -89,4 +89,11 @@
 - [Solution Gist](https://gist.github.com/autumn-ragland/78086c0e95557fdc7fd0572c7c4c664b)
 - [Soltuion Walkthrough Video](https://youtu.be/sjlLvu2J_x4)
 
+#### 20 07 22 JS Objects
+- [Lecture Assignment Link](https://classroom.github.com/a/Mta_0OP1)
+- [IC Assignment Link](https://classroom.github.com/a/SYLB8lOr)
+- [CW Assignment Link](https://classroom.github.com/a/pKQpys8s)
+- [Solution Gist](https://gist.github.com/autumn-ragland/6781c30ed2ce5e2d6541387f4473047a)
+- [Soltuion Walkthrough Video](https://youtu.be/Q9nrVAC0RD4)
+
 ##### Bottom
