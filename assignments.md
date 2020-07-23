@@ -96,4 +96,11 @@
 - [Solution Gist](https://gist.github.com/autumn-ragland/6781c30ed2ce5e2d6541387f4473047a)
 - [Soltuion Walkthrough Video](https://youtu.be/Q9nrVAC0RD4)
 
+#### 20 07 23 JS Classes
+- [Lecture Assignment Link](https://classroom.github.com/a/rpBvmvT5)
+- [IC Assignment Link](https://classroom.github.com/a/bqjl4qST)
+- [CW Assignment Link](https://classroom.github.com/a/n_yPND8-)
+- [Solution Gist](https://gist.github.com/autumn-ragland/1ef2ac1073c1f616fb60e1b8f1d64666)
+- [Solution Walkthrough Video](https://youtu.be/g8HMNRMI6NU)
+
 ##### Bottom
