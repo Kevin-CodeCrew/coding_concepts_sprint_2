@@ -103,4 +103,11 @@
 - [Solution Gist](https://gist.github.com/autumn-ragland/1ef2ac1073c1f616fb60e1b8f1d64666)
 - [Solution Walkthrough Video](https://youtu.be/g8HMNRMI6NU)
 
+#### 20 07 24 JS Basics 2
+- [Lecture Assignment Link](https://classroom.github.com/a/b4riK59C)
+- [IC Assignment Link](https://classroom.github.com/a/SraQ6Rsg)
+- [CW Assignment Link](https://classroom.github.com/a/KwMuw4D2)
+- [Solution Gist](https://gist.github.com/autumn-ragland/9de1b79bce0776780094c2f93bc298fd)
+- [Solution Walkthrough Video](https://youtu.be/ZBeamg2eN_I)
+
 ##### Bottom
