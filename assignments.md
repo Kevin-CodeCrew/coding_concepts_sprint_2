@@ -110,4 +110,7 @@
 - [Solution Gist](https://gist.github.com/autumn-ragland/9de1b79bce0776780094c2f93bc298fd)
 - [Solution Walkthrough Video](https://youtu.be/ZBeamg2eN_I)
 
+#### 20 07 27 JS Higher Order Array Functions
+- [Solution Gist](https://gist.github.com/autumn-ragland/25897ab53f77e6d07232462ce2fbf88c)
+
 ##### Bottom
