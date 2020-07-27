@@ -115,5 +115,6 @@
 - [IC Assignment Link](https://classroom.github.com/a/KnBcbtPM)
 - [CW Assignment Link](https://classroom.github.com/a/H_PT-90c)
 - [Solution Gist](https://gist.github.com/autumn-ragland/25897ab53f77e6d07232462ce2fbf88c)
+- [Solution Walkthrough Video](https://youtu.be/UfKCGKmEriU)
 
 ##### Bottom
