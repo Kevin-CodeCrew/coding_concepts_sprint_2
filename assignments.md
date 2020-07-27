@@ -111,6 +111,9 @@
 - [Solution Walkthrough Video](https://youtu.be/ZBeamg2eN_I)
 
 #### 20 07 27 JS Higher Order Array Functions
+- [Lecture Assignment Link](https://classroom.github.com/a/HN_-f9iu)
+- [IC Assignment Link](https://classroom.github.com/a/KnBcbtPM)
+- [CW Assignment Link](https://classroom.github.com/a/H_PT-90c)
 - [Solution Gist](https://gist.github.com/autumn-ragland/25897ab53f77e6d07232462ce2fbf88c)
 
 ##### Bottom
