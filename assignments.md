@@ -118,6 +118,10 @@
 - [Solution Walkthrough Video](https://youtu.be/UfKCGKmEriU)
 
 #### 20 07 28 DOM Methods
+- [Lecture Assignment Link](https://classroom.github.com/a/5F_cBeiz)
+- [IC Assignment Link](https://classroom.github.com/a/ucqGURhU)
+- [CW Assignment Link](https://classroom.github.com/a/pgJ5xwzf)
+- [Solution Gist](https://gist.github.com/autumn-ragland/1e4db1228504b83bc918ee1387e0d499)
 - [Solution Walkthrough Video](https://youtu.be/HZOxvWak6fQ)
 
 ##### Bottom
