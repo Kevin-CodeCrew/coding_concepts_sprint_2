@@ -117,4 +117,7 @@
 - [Solution Gist](https://gist.github.com/autumn-ragland/25897ab53f77e6d07232462ce2fbf88c)
 - [Solution Walkthrough Video](https://youtu.be/UfKCGKmEriU)
 
+#### 20 07 28 DOM Methods
+- [Solution Walkthrough Video](https://youtu.be/HZOxvWak6fQ)
+
 ##### Bottom
