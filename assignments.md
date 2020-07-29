@@ -124,4 +124,9 @@
 - [Solution Gist](https://gist.github.com/autumn-ragland/1e4db1228504b83bc918ee1387e0d499)
 - [Solution Walkthrough Video](https://youtu.be/HZOxvWak6fQ)
 
+#### 20 07 29 DOM Events
+- [Lecture Assignment Link](https://classroom.github.com/a/yLN4PusV)
+- [IC Assignment Link](https://classroom.github.com/a/V0NdQ18x)
+- [Optional CW Assignment Link](https://classroom.github.com/a/fDuuGH0S)
+
 ##### Bottom
