@@ -129,4 +129,9 @@
 - [IC Assignment Link](https://classroom.github.com/a/V0NdQ18x)
 - [Optional CW Assignment Link](https://classroom.github.com/a/fDuuGH0S)
 
+### 20 07 31 Reflections Mini Project
+- [Project Link](https://classroom.github.com/a/3eF78Hmc)
+- [Project Gist](https://gist.github.com/autumn-ragland/28dcd3fda46d17d620e8018f4b9bcae0)
+- [Project Solution Walkthrough](https://youtu.be/vz_rteAphUI)
+
 ##### Bottom
