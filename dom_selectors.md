@@ -1,4 +1,4 @@
-# Selectors 
+# DOM Eelement Selectors 
 ### [Back to Concepts](./README.md)
 
 ## Syntax :
